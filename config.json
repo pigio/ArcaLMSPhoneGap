@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
     "app_id" : "it.arcadia-consulting.lms",
+=======
+   "app_id" : "it.arcadia-consulting.lms",
+>>>>>>> master
     "appname": "Arcadia LMS",
     "versioncode" : "2018",
     "versionname" : "1.1.0",
