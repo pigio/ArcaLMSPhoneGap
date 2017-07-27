@@ -1,0 +1,12 @@
+{
+  "name": "moodlemobile2",
+  "app_id": "",
+  "watchPatterns": [
+    "www/**/*.html",
+    "www/build/**/*",
+    "www/index.html",
+    "!www/lib/**/*",
+    "scss/**/*"
+  ],
+  "type": "ionic1"
+}
