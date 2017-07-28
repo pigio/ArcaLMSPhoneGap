@@ -3712,7 +3712,7 @@ address {
   line-height: 1.42857; }
 
 a {
-  color: #0064d2; }
+  color: #3a3a3a; }
 
 a.subdued {
   padding-right: 10px;
@@ -3770,10 +3770,10 @@ a.subdued {
     border-radius: 0;
     border-color: #d1d3d6;
     background-color: transparent;
-    color: #0064d2;
+    color: #3a3a3a;
     font-size: 21px; }
     .action-sheet .button:hover {
-      color: #0064d2; }
+      color: #3a3a3a; }
     .action-sheet .button.destructive {
       color: #ff3b30; }
       .action-sheet .button.destructive:hover {
@@ -3781,7 +3781,7 @@ a.subdued {
   .action-sheet .button.active, .action-sheet .button.activated {
     box-shadow: none;
     border-color: #d1d3d6;
-    color: #0064d2;
+    color: #3a3a3a;
     background: #e4e5e7; }
 
 .action-sheet-has-icons .icon {
@@ -3940,14 +3940,14 @@ a.subdued {
     .bar.bar-stable.bar-footer {
       background-image: linear-gradient(180deg, #b2b2b2, #b2b2b2 50%, transparent 50%); }
   .bar.bar-positive {
-    border-color: #004c9f;
-    background-color: #0064d2;
-    background-image: linear-gradient(0deg, #004c9f, #004c9f 50%, transparent 50%);
+    border-color: #212121;
+    background-color: #3a3a3a;
+    background-image: linear-gradient(0deg, #212121, #212121 50%, transparent 50%);
     color: #fff; }
     .bar.bar-positive .title {
       color: #fff; }
     .bar.bar-positive.bar-footer {
-      background-image: linear-gradient(180deg, #004c9f, #004c9f 50%, transparent 50%); }
+      background-image: linear-gradient(180deg, #212121, #212121 50%, transparent 50%); }
   .bar.bar-calm {
     border-color: #004a4f;
     background-color: #007982;
@@ -3985,14 +3985,14 @@ a.subdued {
     .bar.bar-energized.bar-footer {
       background-image: linear-gradient(180deg, #f7a304, #f7a304 50%, transparent 50%); }
   .bar.bar-royal {
-    border-color: #dd6c06;
-    background-color: #f98012;
-    background-image: linear-gradient(0deg, #dd6c06, #dd6c06 50%, transparent 50%);
+    border-color: #405800;
+    background-color: #5e8100;
+    background-image: linear-gradient(0deg, #405800, #405800 50%, transparent 50%);
     color: #fff; }
     .bar.bar-royal .title {
       color: #fff; }
     .bar.bar-royal.bar-footer {
-      background-image: linear-gradient(180deg, #dd6c06, #dd6c06 50%, transparent 50%); }
+      background-image: linear-gradient(180deg, #405800, #405800 50%, transparent 50%); }
   .bar.bar-dark {
     border-color: #111;
     background-color: #3a3a3a;
@@ -4142,15 +4142,15 @@ a.subdued {
     background: none; }
 
 .bar-positive .button {
-  border-color: #004c9f;
-  background-color: #0064d2;
+  border-color: #212121;
+  background-color: #3a3a3a;
   color: #fff; }
   .bar-positive .button:hover {
     color: #fff;
     text-decoration: none; }
   .bar-positive .button.active, .bar-positive .button.activated {
-    border-color: #004c9f;
-    background-color: #004c9f; }
+    border-color: #212121;
+    background-color: #212121; }
   .bar-positive .button.button-clear {
     border-color: transparent;
     background: none;
@@ -4242,15 +4242,15 @@ a.subdued {
     background: none; }
 
 .bar-royal .button {
-  border-color: #dd6c06;
-  background-color: #f98012;
+  border-color: #405800;
+  background-color: #5e8100;
   color: #fff; }
   .bar-royal .button:hover {
     color: #fff;
     text-decoration: none; }
   .bar-royal .button.active, .bar-royal .button.activated {
-    border-color: #dd6c06;
-    background-color: #dd6c06; }
+    border-color: #405800;
+    background-color: #405800; }
   .bar-royal .button.button-clear {
     border-color: transparent;
     background: none;
@@ -4433,9 +4433,9 @@ a.subdued {
 
 .tabs-positive > .tabs,
 .tabs.tabs-positive {
-  border-color: #004c9f;
-  background-color: #0064d2;
-  background-image: linear-gradient(0deg, #004c9f, #004c9f 50%, transparent 50%);
+  border-color: #212121;
+  background-color: #3a3a3a;
+  background-image: linear-gradient(0deg, #212121, #212121 50%, transparent 50%);
   color: #fff; }
   .tabs-positive > .tabs .tab-item .badge, .tabs-positive > .tabs .tab-item .mma-messages-date span, .mma-messages-date .tabs-positive > .tabs .tab-item span, .tabs-positive > .tabs .tab-item
   .mma-messages-unreadfrom span,
@@ -4450,7 +4450,7 @@ a.subdued {
   .tabs.tabs-positive .tab-item .mma-chat-notice span, .mma-chat-notice
   .tabs.tabs-positive .tab-item span {
     background-color: #fff;
-    color: #0064d2; }
+    color: #3a3a3a; }
 
 .tabs-calm > .tabs,
 .tabs.tabs-calm {
@@ -4538,9 +4538,9 @@ a.subdued {
 
 .tabs-royal > .tabs,
 .tabs.tabs-royal {
-  border-color: #dd6c06;
-  background-color: #f98012;
-  background-image: linear-gradient(0deg, #dd6c06, #dd6c06 50%, transparent 50%);
+  border-color: #405800;
+  background-color: #5e8100;
+  background-image: linear-gradient(0deg, #405800, #405800 50%, transparent 50%);
   color: #fff; }
   .tabs-royal > .tabs .tab-item .badge, .tabs-royal > .tabs .tab-item .mma-messages-date span, .mma-messages-date .tabs-royal > .tabs .tab-item span, .tabs-royal > .tabs .tab-item
   .mma-messages-unreadfrom span,
@@ -4555,7 +4555,7 @@ a.subdued {
   .tabs.tabs-royal .tab-item .mma-chat-notice span, .mma-chat-notice
   .tabs.tabs-royal .tab-item span {
     background-color: #fff;
-    color: #f98012; }
+    color: #5e8100; }
 
 .tabs-dark > .tabs,
 .tabs.tabs-dark {
@@ -4653,7 +4653,7 @@ a.subdued {
   top: 4%; }
 
 .tabs-striped.tabs-positive .tabs {
-  background-color: #0064d2; }
+  background-color: #3a3a3a; }
 
 .tabs-striped.tabs-positive .tab-item {
   color: rgba(255, 255, 255, 0.6);
@@ -4783,7 +4783,7 @@ a.subdued {
   top: 4%; }
 
 .tabs-striped.tabs-royal .tabs {
-  background-color: #f98012; }
+  background-color: #5e8100; }
 
 .tabs-striped.tabs-royal .tab-item {
   color: rgba(255, 255, 255, 0.6);
@@ -4843,7 +4843,7 @@ a.subdued {
   background-image: none; }
 
 .tabs-striped.tabs-background-positive .tabs {
-  background-color: #0064d2;
+  background-color: #3a3a3a;
   background-image: none; }
 
 .tabs-striped.tabs-background-calm .tabs {
@@ -4863,7 +4863,7 @@ a.subdued {
   background-image: none; }
 
 .tabs-striped.tabs-background-royal .tabs {
-  background-color: #f98012;
+  background-color: #5e8100;
   background-image: none; }
 
 .tabs-striped.tabs-background-dark .tabs {
@@ -4915,7 +4915,7 @@ a.subdued {
       opacity: 1; }
 
 .tabs-striped.tabs-color-positive .tab-item {
-  color: rgba(0, 100, 210, 0.6);
+  color: rgba(58, 58, 58, 0.6);
   opacity: 1; }
   .tabs-striped.tabs-color-positive .tab-item .badge, .tabs-striped.tabs-color-positive .tab-item .mma-messages-date span, .mma-messages-date .tabs-striped.tabs-color-positive .tab-item span, .tabs-striped.tabs-color-positive .tab-item
   .mma-messages-unreadfrom span,
@@ -4923,8 +4923,8 @@ a.subdued {
     opacity: 0.6; }
   .tabs-striped.tabs-color-positive .tab-item.tab-item-active, .tabs-striped.tabs-color-positive .tab-item.active, .tabs-striped.tabs-color-positive .tab-item.activated {
     margin-top: -2px;
-    color: #0064d2;
-    border: 0 solid #0064d2;
+    color: #3a3a3a;
+    border: 0 solid #3a3a3a;
     border-top-width: 2px; }
     .tabs-striped.tabs-color-positive .tab-item.tab-item-active .badge, .tabs-striped.tabs-color-positive .tab-item.tab-item-active .mma-messages-date span, .mma-messages-date .tabs-striped.tabs-color-positive .tab-item.tab-item-active span, .tabs-striped.tabs-color-positive .tab-item.tab-item-active
     .mma-messages-unreadfrom span,
@@ -5025,7 +5025,7 @@ a.subdued {
       opacity: 1; }
 
 .tabs-striped.tabs-color-royal .tab-item {
-  color: rgba(249, 128, 18, 0.6);
+  color: rgba(94, 129, 0, 0.6);
   opacity: 1; }
   .tabs-striped.tabs-color-royal .tab-item .badge, .tabs-striped.tabs-color-royal .tab-item .mma-messages-date span, .mma-messages-date .tabs-striped.tabs-color-royal .tab-item span, .tabs-striped.tabs-color-royal .tab-item
   .mma-messages-unreadfrom span,
@@ -5033,8 +5033,8 @@ a.subdued {
     opacity: 0.6; }
   .tabs-striped.tabs-color-royal .tab-item.tab-item-active, .tabs-striped.tabs-color-royal .tab-item.active, .tabs-striped.tabs-color-royal .tab-item.activated {
     margin-top: -2px;
-    color: #f98012;
-    border: 0 solid #f98012;
+    color: #5e8100;
+    border: 0 solid #5e8100;
     border-top-width: 2px; }
     .tabs-striped.tabs-color-royal .tab-item.tab-item-active .badge, .tabs-striped.tabs-color-royal .tab-item.tab-item-active .mma-messages-date span, .mma-messages-date .tabs-striped.tabs-color-royal .tab-item.tab-item-active span, .tabs-striped.tabs-color-royal .tab-item.tab-item-active
     .mma-messages-unreadfrom span,
@@ -5082,9 +5082,9 @@ a.subdued {
 
 .tabs-background-positive .tabs,
 .tabs-background-positive > .tabs {
-  background-color: #0064d2;
-  background-image: linear-gradient(0deg, #004c9f, #004c9f 50%, transparent 50%);
-  border-color: #004c9f; }
+  background-color: #3a3a3a;
+  background-image: linear-gradient(0deg, #212121, #212121 50%, transparent 50%);
+  border-color: #212121; }
 
 .tabs-background-calm .tabs,
 .tabs-background-calm > .tabs {
@@ -5112,9 +5112,9 @@ a.subdued {
 
 .tabs-background-royal .tabs,
 .tabs-background-royal > .tabs {
-  background-color: #f98012;
-  background-image: linear-gradient(0deg, #dd6c06, #dd6c06 50%, transparent 50%);
-  border-color: #dd6c06; }
+  background-color: #5e8100;
+  background-image: linear-gradient(0deg, #405800, #405800 50%, transparent 50%);
+  border-color: #405800; }
 
 .tabs-background-dark .tabs,
 .tabs-background-dark > .tabs {
@@ -5161,15 +5161,15 @@ a.subdued {
       opacity: 1; }
 
 .tabs-color-positive .tab-item {
-  color: rgba(0, 100, 210, 0.6);
+  color: rgba(58, 58, 58, 0.6);
   opacity: 1; }
   .tabs-color-positive .tab-item .badge, .tabs-color-positive .tab-item .mma-messages-date span, .mma-messages-date .tabs-color-positive .tab-item span, .tabs-color-positive .tab-item
   .mma-messages-unreadfrom span,
   .mma-messages-unreadfrom .tabs-color-positive .tab-item span, .tabs-color-positive .tab-item .mma-chat-notice span, .mma-chat-notice .tabs-color-positive .tab-item span {
     opacity: 0.6; }
   .tabs-color-positive .tab-item.tab-item-active, .tabs-color-positive .tab-item.active, .tabs-color-positive .tab-item.activated {
-    color: #0064d2;
-    border: 0 solid #0064d2; }
+    color: #3a3a3a;
+    border: 0 solid #3a3a3a; }
     .tabs-color-positive .tab-item.tab-item-active .badge, .tabs-color-positive .tab-item.tab-item-active .mma-messages-date span, .mma-messages-date .tabs-color-positive .tab-item.tab-item-active span, .tabs-color-positive .tab-item.tab-item-active
     .mma-messages-unreadfrom span,
     .mma-messages-unreadfrom .tabs-color-positive .tab-item.tab-item-active span, .tabs-color-positive .tab-item.tab-item-active .mma-chat-notice span, .mma-chat-notice .tabs-color-positive .tab-item.tab-item-active span, .tabs-color-positive .tab-item.active .badge, .tabs-color-positive .tab-item.active .mma-messages-date span, .mma-messages-date .tabs-color-positive .tab-item.active span, .tabs-color-positive .tab-item.active
@@ -5256,15 +5256,15 @@ a.subdued {
       opacity: 1; }
 
 .tabs-color-royal .tab-item {
-  color: rgba(249, 128, 18, 0.6);
+  color: rgba(94, 129, 0, 0.6);
   opacity: 1; }
   .tabs-color-royal .tab-item .badge, .tabs-color-royal .tab-item .mma-messages-date span, .mma-messages-date .tabs-color-royal .tab-item span, .tabs-color-royal .tab-item
   .mma-messages-unreadfrom span,
   .mma-messages-unreadfrom .tabs-color-royal .tab-item span, .tabs-color-royal .tab-item .mma-chat-notice span, .mma-chat-notice .tabs-color-royal .tab-item span {
     opacity: 0.6; }
   .tabs-color-royal .tab-item.tab-item-active, .tabs-color-royal .tab-item.active, .tabs-color-royal .tab-item.activated {
-    color: #f98012;
-    border: 0 solid #f98012; }
+    color: #5e8100;
+    border: 0 solid #5e8100; }
     .tabs-color-royal .tab-item.tab-item-active .badge, .tabs-color-royal .tab-item.tab-item-active .mma-messages-date span, .mma-messages-date .tabs-color-royal .tab-item.tab-item-active span, .tabs-color-royal .tab-item.tab-item-active
     .mma-messages-unreadfrom span,
     .mma-messages-unreadfrom .tabs-color-royal .tab-item.tab-item-active span, .tabs-color-royal .tab-item.tab-item-active .mma-chat-notice span, .mma-chat-notice .tabs-color-royal .tab-item.tab-item-active span, .tabs-color-royal .tab-item.active .badge, .tabs-color-royal .tab-item.active .mma-messages-date span, .mma-messages-date .tabs-color-royal .tab-item.active span, .tabs-color-royal .tab-item.active
@@ -5314,11 +5314,11 @@ ion-tabs.tabs-striped.tabs-color-active-stable .tab-item.tab-item-active, ion-ta
 ion-tabs.tabs-color-active-positive .tab-item {
   color: #3a3a3a; }
   ion-tabs.tabs-color-active-positive .tab-item.tab-item-active, ion-tabs.tabs-color-active-positive .tab-item.active, ion-tabs.tabs-color-active-positive .tab-item.activated {
-    color: #0064d2; }
+    color: #3a3a3a; }
 
 ion-tabs.tabs-striped.tabs-color-active-positive .tab-item.tab-item-active, ion-tabs.tabs-striped.tabs-color-active-positive .tab-item.active, ion-tabs.tabs-striped.tabs-color-active-positive .tab-item.activated {
-  border-color: #0064d2;
-  color: #0064d2; }
+  border-color: #3a3a3a;
+  color: #3a3a3a; }
 
 ion-tabs.tabs-color-active-calm .tab-item {
   color: #3a3a3a; }
@@ -5359,11 +5359,11 @@ ion-tabs.tabs-striped.tabs-color-active-energized .tab-item.tab-item-active, ion
 ion-tabs.tabs-color-active-royal .tab-item {
   color: #3a3a3a; }
   ion-tabs.tabs-color-active-royal .tab-item.tab-item-active, ion-tabs.tabs-color-active-royal .tab-item.active, ion-tabs.tabs-color-active-royal .tab-item.activated {
-    color: #f98012; }
+    color: #5e8100; }
 
 ion-tabs.tabs-striped.tabs-color-active-royal .tab-item.tab-item-active, ion-tabs.tabs-striped.tabs-color-active-royal .tab-item.active, ion-tabs.tabs-striped.tabs-color-active-royal .tab-item.activated {
-  border-color: #f98012;
-  color: #f98012; }
+  border-color: #5e8100;
+  color: #5e8100; }
 
 ion-tabs.tabs-color-active-dark .tab-item {
   color: #fff; }
@@ -5570,7 +5570,7 @@ ion-tabs.tabs-striped.tabs-color-active-dark .tab-item.tab-item-active, ion-tabs
   .tab-item.tab-item-active.tab-item-positive,
   .tab-item.active.tab-item-positive,
   .tab-item.activated.tab-item-positive {
-    color: #0064d2; }
+    color: #3a3a3a; }
   .tab-item.tab-item-active.tab-item-calm,
   .tab-item.active.tab-item-calm,
   .tab-item.activated.tab-item-calm {
@@ -5590,7 +5590,7 @@ ion-tabs.tabs-striped.tabs-color-active-dark .tab-item.tab-item-active, ion-tabs
   .tab-item.tab-item-active.tab-item-royal,
   .tab-item.active.tab-item-royal,
   .tab-item.activated.tab-item-royal {
-    color: #f98012; }
+    color: #5e8100; }
   .tab-item.tab-item-active.tab-item-dark,
   .tab-item.active.tab-item-dark,
   .tab-item.activated.tab-item-dark {
@@ -6149,8 +6149,8 @@ ion-tabs.tabs-striped.tabs-color-active-dark .tab-item.tab-item-active, ion-tabs
     background-color: #f5f5f5;
     color: #444; }
   .item.item-positive, .mm-grades-table .item-positive.itemcenter {
-    border-color: #004c9f;
-    background-color: #0064d2;
+    border-color: #212121;
+    background-color: #3a3a3a;
     color: #fff; }
   .item.item-calm, .mm-grades-table .item-calm.itemcenter {
     border-color: #004a4f;
@@ -6169,8 +6169,8 @@ ion-tabs.tabs-striped.tabs-color-active-dark .tab-item.tab-item-active, ion-tabs
     background-color: #fbad1a;
     color: #fff; }
   .item.item-royal, .mm-grades-table .item-royal.itemcenter {
-    border-color: #dd6c06;
-    background-color: #f98012;
+    border-color: #405800;
+    background-color: #5e8100;
     color: #fff; }
   .item.item-dark, .mm-grades-table .item-dark.itemcenter {
     border-color: #111;
@@ -6241,16 +6241,16 @@ ion-tabs.tabs-striped.tabs-color-active-dark .tab-item.tab-item-active, ion-tabs
   .item-complex.activated .item-content.item-positive,
   .item .item-content.active.item-positive, .mm-grades-table .itemcenter .item-content.active.item-positive,
   .item .item-content.activated.item-positive, .mm-grades-table .itemcenter .item-content.activated.item-positive {
-    border-color: #004c9f;
-    background-color: #004c9f; }
+    border-color: #212121;
+    background-color: #212121; }
     .item.active.item-positive.item-complex > .item-content, .mm-grades-table .active.item-positive.item-complex.itemcenter > .item-content,
     .item.activated.item-positive.item-complex > .item-content, .mm-grades-table .activated.item-positive.item-complex.itemcenter > .item-content,
     .item-complex.active .item-content.item-positive.item-complex > .item-content,
     .item-complex.activated .item-content.item-positive.item-complex > .item-content,
     .item .item-content.active.item-positive.item-complex > .item-content, .mm-grades-table .itemcenter .item-content.active.item-positive.item-complex > .item-content,
     .item .item-content.activated.item-positive.item-complex > .item-content, .mm-grades-table .itemcenter .item-content.activated.item-positive.item-complex > .item-content {
-      border-color: #004c9f;
-      background-color: #004c9f; }
+      border-color: #212121;
+      background-color: #212121; }
   .item.active.item-calm, .mm-grades-table .active.item-calm.itemcenter,
   .item.activated.item-calm,
   .mm-grades-table .activated.item-calm.itemcenter,
@@ -6326,16 +6326,16 @@ ion-tabs.tabs-striped.tabs-color-active-dark .tab-item.tab-item-active, ion-tabs
   .item-complex.activated .item-content.item-royal,
   .item .item-content.active.item-royal, .mm-grades-table .itemcenter .item-content.active.item-royal,
   .item .item-content.activated.item-royal, .mm-grades-table .itemcenter .item-content.activated.item-royal {
-    border-color: #dd6c06;
-    background-color: #dd6c06; }
+    border-color: #405800;
+    background-color: #405800; }
     .item.active.item-royal.item-complex > .item-content, .mm-grades-table .active.item-royal.item-complex.itemcenter > .item-content,
     .item.activated.item-royal.item-complex > .item-content, .mm-grades-table .activated.item-royal.item-complex.itemcenter > .item-content,
     .item-complex.active .item-content.item-royal.item-complex > .item-content,
     .item-complex.activated .item-content.item-royal.item-complex > .item-content,
     .item .item-content.active.item-royal.item-complex > .item-content, .mm-grades-table .itemcenter .item-content.active.item-royal.item-complex > .item-content,
     .item .item-content.activated.item-royal.item-complex > .item-content, .mm-grades-table .itemcenter .item-content.activated.item-royal.item-complex > .item-content {
-      border-color: #dd6c06;
-      background-color: #dd6c06; }
+      border-color: #405800;
+      background-color: #405800; }
   .item.active.item-dark, .mm-grades-table .active.item-dark.itemcenter,
   .item.activated.item-dark,
   .mm-grades-table .activated.item-dark.itemcenter,
@@ -6480,15 +6480,15 @@ a.item-content {
       background-color: #e5e5e5; }
 
 .item-complex.item-positive > .item-content {
-  border-color: #004c9f;
-  background-color: #0064d2;
+  border-color: #212121;
+  background-color: #3a3a3a;
   color: #fff; }
   .item-complex.item-positive > .item-content.active, .item-complex.item-positive > .item-content:active {
-    border-color: #004c9f;
-    background-color: #004c9f; }
+    border-color: #212121;
+    background-color: #212121; }
     .item-complex.item-positive > .item-content.active.item-complex > .item-content, .item-complex.item-positive > .item-content:active.item-complex > .item-content {
-      border-color: #004c9f;
-      background-color: #004c9f; }
+      border-color: #212121;
+      background-color: #212121; }
 
 .item-complex.item-calm > .item-content {
   border-color: #004a4f;
@@ -6535,15 +6535,15 @@ a.item-content {
       background-color: #f7a304; }
 
 .item-complex.item-royal > .item-content {
-  border-color: #dd6c06;
-  background-color: #f98012;
+  border-color: #405800;
+  background-color: #5e8100;
   color: #fff; }
   .item-complex.item-royal > .item-content.active, .item-complex.item-royal > .item-content:active {
-    border-color: #dd6c06;
-    background-color: #dd6c06; }
+    border-color: #405800;
+    background-color: #405800; }
     .item-complex.item-royal > .item-content.active.item-complex > .item-content, .item-complex.item-royal > .item-content:active.item-complex > .item-content {
-      border-color: #dd6c06;
-      background-color: #dd6c06; }
+      border-color: #405800;
+      background-color: #405800; }
 
 .item-complex.item-dark > .item-content {
   border-color: #111;
@@ -7259,7 +7259,7 @@ button.item.item-button-right,
 .mma-messages-date span.badge-positive,
 .mma-messages-unreadfrom span.badge-positive,
 .mma-chat-notice span.badge-positive {
-  background-color: #0064d2;
+  background-color: #3a3a3a;
   color: #fff; }
 
 .tabs .tab-item .badge.badge-calm, .tabs .tab-item .mma-messages-date span.badge-calm, .mma-messages-date .tabs .tab-item span.badge-calm, .tabs .tab-item
@@ -7309,7 +7309,7 @@ button.item.item-button-right,
 .mma-messages-date span.badge-royal,
 .mma-messages-unreadfrom span.badge-royal,
 .mma-chat-notice span.badge-royal {
-  background-color: #f98012;
+  background-color: #5e8100;
   color: #fff; }
 
 .tabs .tab-item .badge.badge-dark, .tabs .tab-item .mma-messages-date span.badge-dark, .mma-messages-date .tabs .tab-item span.badge-dark, .tabs .tab-item
@@ -8005,8 +8005,8 @@ ion-slides {
     stroke: #f5f5f5;
     fill: #f5f5f5; }
   .spinner.spinner-positive {
-    stroke: #0064d2;
-    fill: #0064d2; }
+    stroke: #3a3a3a;
+    fill: #3a3a3a; }
   .spinner.spinner-calm {
     stroke: #007982;
     fill: #007982; }
@@ -8020,8 +8020,8 @@ ion-slides {
     stroke: #fbad1a;
     fill: #fbad1a; }
   .spinner.spinner-royal {
-    stroke: #f98012;
-    fill: #f98012; }
+    stroke: #5e8100;
+    fill: #5e8100; }
   .spinner.spinner-dark {
     stroke: #3a3a3a;
     fill: #3a3a3a; }
@@ -8047,7 +8047,7 @@ ion-slides {
   stop-color: #f5f5f5; }
 
 .spinner-spiral.spinner-positive .stop2 {
-  stop-color: #0064d2; }
+  stop-color: #3a3a3a; }
 
 .spinner-spiral.spinner-calm .stop2 {
   stop-color: #007982; }
@@ -8062,7 +8062,7 @@ ion-slides {
   stop-color: #fbad1a; }
 
 .spinner-spiral.spinner-royal .stop2 {
-  stop-color: #f98012; }
+  stop-color: #5e8100; }
 
 .spinner-spiral.spinner-dark .stop2 {
   stop-color: #3a3a3a; }
@@ -8408,8 +8408,8 @@ input[type="checkbox"][readonly] {
     border-color: #dddddd; }
   .checkbox input:checked:before,
   .checkbox input:checked + .checkbox-icon:before {
-    background: #0064d2;
-    border-color: #0064d2; }
+    background: #3a3a3a;
+    border-color: #3a3a3a; }
 
 .checkbox-light input:before,
 .checkbox-light .checkbox-icon:before {
@@ -8431,12 +8431,12 @@ input[type="checkbox"][readonly] {
 
 .checkbox-positive input:before,
 .checkbox-positive .checkbox-icon:before {
-  border-color: #0064d2; }
+  border-color: #3a3a3a; }
 
 .checkbox-positive input:checked:before,
 .checkbox-positive input:checked + .checkbox-icon:before {
-  background: #0064d2;
-  border-color: #0064d2; }
+  background: #3a3a3a;
+  border-color: #3a3a3a; }
 
 .checkbox-calm input:before,
 .checkbox-calm .checkbox-icon:before {
@@ -8476,12 +8476,12 @@ input[type="checkbox"][readonly] {
 
 .checkbox-royal input:before,
 .checkbox-royal .checkbox-icon:before {
-  border-color: #f98012; }
+  border-color: #5e8100; }
 
 .checkbox-royal input:checked:before,
 .checkbox-royal input:checked + .checkbox-icon:before {
-  background: #f98012;
-  border-color: #f98012; }
+  background: #5e8100;
+  border-color: #5e8100; }
 
 .checkbox-dark input:before,
 .checkbox-dark .checkbox-icon:before {
@@ -8637,8 +8637,8 @@ input:checked + .checkbox-icon:after {
   background-color: #b2b2b2; }
 
 .toggle.toggle-positive input:checked + .track {
-  border-color: #0064d2;
-  background-color: #0064d2; }
+  border-color: #3a3a3a;
+  background-color: #3a3a3a; }
 
 .toggle.toggle-calm input:checked + .track {
   border-color: #007982;
@@ -8657,8 +8657,8 @@ input:checked + .checkbox-icon:after {
   background-color: #fbad1a; }
 
 .toggle.toggle-royal input:checked + .track {
-  border-color: #f98012;
-  background-color: #f98012; }
+  border-color: #5e8100;
+  background-color: #5e8100; }
 
 .toggle.toggle-dark input:checked + .track {
   border-color: #3a3a3a;
@@ -8775,10 +8775,10 @@ input:checked + .checkbox-icon:after {
   background-color: #b2b2b2; }
 
 .toggle-small .toggle-positive input:checked + .track {
-  background-color: rgba(0, 100, 210, 0.5); }
+  background-color: rgba(58, 58, 58, 0.5); }
 
 .toggle-small .toggle-positive input:checked + .track .handle {
-  background-color: #0064d2; }
+  background-color: #3a3a3a; }
 
 .toggle-small .toggle-calm input:checked + .track {
   background-color: rgba(0, 121, 130, 0.5); }
@@ -8805,10 +8805,10 @@ input:checked + .checkbox-icon:after {
   background-color: #fbad1a; }
 
 .toggle-small .toggle-royal input:checked + .track {
-  background-color: rgba(249, 128, 18, 0.5); }
+  background-color: rgba(94, 129, 0, 0.5); }
 
 .toggle-small .toggle-royal input:checked + .track .handle {
-  background-color: #f98012; }
+  background-color: #5e8100; }
 
 .toggle-small .toggle-dark input:checked + .track {
   background-color: rgba(58, 58, 58, 0.5); }
@@ -8950,9 +8950,9 @@ input:checked + .checkbox-icon:after {
   .range.range-stable input::-ms-fill-lower {
     background: #b2b2b2; }
   .range.range-positive input::-webkit-slider-thumb:before {
-    background: #0064d2; }
+    background: #3a3a3a; }
   .range.range-positive input::-ms-fill-lower {
-    background: #0064d2; }
+    background: #3a3a3a; }
   .range.range-calm input::-webkit-slider-thumb:before {
     background: #007982; }
   .range.range-calm input::-ms-fill-lower {
@@ -8970,9 +8970,9 @@ input:checked + .checkbox-icon:after {
   .range.range-energized input::-ms-fill-lower {
     background: #fbad1a; }
   .range.range-royal input::-webkit-slider-thumb:before {
-    background: #f98012; }
+    background: #5e8100; }
   .range.range-royal input::-ms-fill-lower {
-    background: #f98012; }
+    background: #5e8100; }
   .range.range-dark input::-webkit-slider-thumb:before {
     background: #3a3a3a; }
   .range.range-dark input::-ms-fill-lower {
@@ -9072,7 +9072,7 @@ input:checked + .checkbox-icon:after {
   .item-select.item-stable:after, .item-select.item-stable .input-label {
     color: #666666; }
   .item-select.item-positive select {
-    background: #0064d2;
+    background: #3a3a3a;
     color: #fff; }
   .item-select.item-positive:after, .item-select.item-positive .input-label {
     color: #fff; }
@@ -9097,7 +9097,7 @@ input:checked + .checkbox-icon:after {
   .item-select.item-energized:after, .item-select.item-energized .input-label {
     color: #fff; }
   .item-select.item-royal select {
-    background: #f98012;
+    background: #5e8100;
     color: #fff; }
   .item-select.item-royal:after, .item-select.item-royal .input-label {
     color: #fff; }
@@ -9124,9 +9124,9 @@ progress {
  * --------------------------------------------------
  */
 .button {
-  border-color: #0064d2;
+  border-color: #3a3a3a;
   background-color: #ffffff;
-  color: #0064d2;
+  color: #3a3a3a;
   position: relative;
   display: inline-block;
   margin: 0;
@@ -9143,11 +9143,11 @@ progress {
   line-height: 42px;
   cursor: pointer; }
   .button:hover {
-    color: #0064d2;
+    color: #3a3a3a;
     text-decoration: none; }
   .button.active, .button.activated {
-    border-color: #0064d2;
-    background-color: #0064d2; }
+    border-color: #3a3a3a;
+    background-color: #3a3a3a; }
   .button:after {
     position: absolute;
     top: -6px;
@@ -9177,14 +9177,14 @@ progress {
     margin-top: 10px;
     margin-bottom: 10px; }
   .button.button-light {
-    border-color: #0064d2;
+    border-color: #3a3a3a;
     background-color: #fff;
     color: #444; }
     .button.button-light:hover {
       color: #444;
       text-decoration: none; }
     .button.button-light.active, .button.button-light.activated {
-      border-color: #0064d2;
+      border-color: #3a3a3a;
       background-color: #fafafa; }
     .button.button-light.button-clear {
       border-color: transparent;
@@ -9203,14 +9203,14 @@ progress {
         box-shadow: none;
         color: #fff; }
   .button.button-stable {
-    border-color: #0064d2;
+    border-color: #3a3a3a;
     background-color: #f5f5f5;
     color: #444; }
     .button.button-stable:hover {
       color: #444;
       text-decoration: none; }
     .button.button-stable.active, .button.button-stable.activated {
-      border-color: #0064d2;
+      border-color: #3a3a3a;
       background-color: #e5e5e5; }
     .button.button-stable.button-clear {
       border-color: transparent;
@@ -9229,40 +9229,40 @@ progress {
         box-shadow: none;
         color: #fff; }
   .button.button-positive {
-    border-color: #0064d2;
-    background-color: #0064d2;
+    border-color: #3a3a3a;
+    background-color: #3a3a3a;
     color: #fff; }
     .button.button-positive:hover {
       color: #fff;
       text-decoration: none; }
     .button.button-positive.active, .button.button-positive.activated {
-      border-color: #0064d2;
-      background-color: #004c9f; }
+      border-color: #3a3a3a;
+      background-color: #212121; }
     .button.button-positive.button-clear {
       border-color: transparent;
       background: none;
       box-shadow: none;
-      color: #0064d2; }
+      color: #3a3a3a; }
     .button.button-positive.button-icon {
       border-color: transparent;
       background: none; }
     .button.button-positive.button-outline {
-      border-color: #0064d2;
+      border-color: #3a3a3a;
       background: transparent;
-      color: #0064d2; }
+      color: #3a3a3a; }
       .button.button-positive.button-outline.active, .button.button-positive.button-outline.activated {
-        background-color: #0064d2;
+        background-color: #3a3a3a;
         box-shadow: none;
         color: #fff; }
   .button.button-calm {
-    border-color: #0064d2;
+    border-color: #3a3a3a;
     background-color: #007982;
     color: #fff; }
     .button.button-calm:hover {
       color: #fff;
       text-decoration: none; }
     .button.button-calm.active, .button.button-calm.activated {
-      border-color: #0064d2;
+      border-color: #3a3a3a;
       background-color: #004a4f; }
     .button.button-calm.button-clear {
       border-color: transparent;
@@ -9281,14 +9281,14 @@ progress {
         box-shadow: none;
         color: #fff; }
   .button.button-assertive {
-    border-color: #0064d2;
+    border-color: #3a3a3a;
     background-color: #cb3d4d;
     color: #fff; }
     .button.button-assertive:hover {
       color: #fff;
       text-decoration: none; }
     .button.button-assertive.active, .button.button-assertive.activated {
-      border-color: #0064d2;
+      border-color: #3a3a3a;
       background-color: #a82d3b; }
     .button.button-assertive.button-clear {
       border-color: transparent;
@@ -9307,14 +9307,14 @@ progress {
         box-shadow: none;
         color: #fff; }
   .button.button-balanced {
-    border-color: #0064d2;
+    border-color: #3a3a3a;
     background-color: #5e8100;
     color: #fff; }
     .button.button-balanced:hover {
       color: #fff;
       text-decoration: none; }
     .button.button-balanced.active, .button.button-balanced.activated {
-      border-color: #0064d2;
+      border-color: #3a3a3a;
       background-color: #394e00; }
     .button.button-balanced.button-clear {
       border-color: transparent;
@@ -9333,14 +9333,14 @@ progress {
         box-shadow: none;
         color: #fff; }
   .button.button-energized {
-    border-color: #0064d2;
+    border-color: #3a3a3a;
     background-color: #fbad1a;
     color: #fff; }
     .button.button-energized:hover {
       color: #fff;
       text-decoration: none; }
     .button.button-energized.active, .button.button-energized.activated {
-      border-color: #0064d2;
+      border-color: #3a3a3a;
       background-color: #f7a304; }
     .button.button-energized.button-clear {
       border-color: transparent;
@@ -9359,40 +9359,40 @@ progress {
         box-shadow: none;
         color: #fff; }
   .button.button-royal {
-    border-color: #0064d2;
-    background-color: #f98012;
+    border-color: #3a3a3a;
+    background-color: #5e8100;
     color: #fff; }
     .button.button-royal:hover {
       color: #fff;
       text-decoration: none; }
     .button.button-royal.active, .button.button-royal.activated {
-      border-color: #0064d2;
-      background-color: #dd6c06; }
+      border-color: #3a3a3a;
+      background-color: #405800; }
     .button.button-royal.button-clear {
       border-color: transparent;
       background: none;
       box-shadow: none;
-      color: #f98012; }
+      color: #5e8100; }
     .button.button-royal.button-icon {
       border-color: transparent;
       background: none; }
     .button.button-royal.button-outline {
-      border-color: #f98012;
+      border-color: #5e8100;
       background: transparent;
-      color: #f98012; }
+      color: #5e8100; }
       .button.button-royal.button-outline.active, .button.button-royal.button-outline.activated {
-        background-color: #f98012;
+        background-color: #5e8100;
         box-shadow: none;
         color: #fff; }
   .button.button-dark {
-    border-color: #0064d2;
+    border-color: #3a3a3a;
     background-color: #3a3a3a;
     color: #fff; }
     .button.button-dark:hover {
       color: #fff;
       text-decoration: none; }
     .button.button-dark.active, .button.button-dark.activated {
-      border-color: #0064d2;
+      border-color: #3a3a3a;
       background-color: #262626; }
     .button.button-dark.button-clear {
       border-color: transparent;
@@ -9460,7 +9460,7 @@ progress {
     border-color: transparent;
     background: none;
     box-shadow: none;
-    color: #0064d2; }
+    color: #3a3a3a; }
   .button-clear.button-icon {
     border-color: transparent;
     background: none; }
@@ -9473,11 +9473,11 @@ progress {
   background: none;
   box-shadow: none; }
   .button-outline.button-outline {
-    border-color: #0064d2;
+    border-color: #3a3a3a;
     background: transparent;
-    color: #0064d2; }
+    color: #3a3a3a; }
     .button-outline.button-outline.active, .button-outline.button-outline.activated {
-      background-color: #0064d2;
+      background-color: #3a3a3a;
       box-shadow: none;
       color: #fff; }
 
@@ -9553,7 +9553,7 @@ a.button {
   .button-bar.bar-stable > .button {
     border-color: #b2b2b2; }
   .button-bar.bar-positive > .button {
-    border-color: #004c9f; }
+    border-color: #212121; }
   .button-bar.bar-calm > .button {
     border-color: #004a4f; }
   .button-bar.bar-assertive > .button {
@@ -9563,7 +9563,7 @@ a.button {
   .button-bar.bar-energized > .button {
     border-color: #f7a304; }
   .button-bar.bar-royal > .button {
-    border-color: #dd6c06; }
+    border-color: #405800; }
   .button-bar.bar-dark > .button {
     border-color: #111; }
 
@@ -10059,13 +10059,13 @@ a.button {
   border-color: #b2b2b2; }
 
 .positive, a.positive {
-  color: #0064d2; }
+  color: #3a3a3a; }
 
 .positive-bg {
-  background-color: #0064d2; }
+  background-color: #3a3a3a; }
 
 .positive-border {
-  border-color: #004c9f; }
+  border-color: #212121; }
 
 .calm, a.calm {
   color: #007982; }
@@ -10104,13 +10104,13 @@ a.button {
   border-color: #f7a304; }
 
 .royal, a.royal {
-  color: #f98012; }
+  color: #5e8100; }
 
 .royal-bg {
-  background-color: #f98012; }
+  background-color: #5e8100; }
 
 .royal-border {
-  border-color: #dd6c06; }
+  border-color: #405800; }
 
 .dark, a.dark {
   color: #3a3a3a; }
@@ -10368,7 +10368,7 @@ a.button {
 .icon {
   color: #626262; }
   .icon.positive {
-    color: #0064d2; }
+    color: #3a3a3a; }
   .icon.assertive {
     color: #cb3d4d; }
   .icon.dark {
@@ -10384,7 +10384,7 @@ a.button {
 .button.button-icon.activated,
 .button.button-icon.active .icon,
 .button.button-icon.activated .icon {
-  color: #0064d2; }
+  color: #3a3a3a; }
   .button .icon.assertive, .button.active.assertive, .button.activated.assertive,
   .button.active .icon.assertive,
   .button.activated .icon.assertive,
@@ -10414,7 +10414,7 @@ a.button {
     color: #ccc; }
 
 .action-sheet .button .icon {
-  color: #0064d2; }
+  color: #3a3a3a; }
 
 .platform-android .action-sheet .button .icon {
   color: inherit; }
@@ -10428,29 +10428,29 @@ a.button {
   color: #cb3d4d; }
 
 .button.button-light, .button.button-stable, .button.button-calm, .button.button-assertive, .button.button-balanced, .button.button-energized, .button.button-royal {
-  border-color: #0064d2;
+  border-color: #3a3a3a;
   background-color: #ffffff;
-  color: #0064d2; }
+  color: #3a3a3a; }
   .button.button-light:hover, .button.button-stable:hover, .button.button-calm:hover, .button.button-assertive:hover, .button.button-balanced:hover, .button.button-energized:hover, .button.button-royal:hover {
-    color: #0064d2;
+    color: #3a3a3a;
     text-decoration: none; }
   .button.button-light.active, .button.button-light.activated, .button.button-stable.active, .button.button-stable.activated, .button.button-calm.active, .button.button-calm.activated, .button.button-assertive.active, .button.button-assertive.activated, .button.button-balanced.active, .button.button-balanced.activated, .button.button-energized.active, .button.button-energized.activated, .button.button-royal.active, .button.button-royal.activated {
-    border-color: #0064d2;
-    background-color: #0064d2; }
+    border-color: #3a3a3a;
+    background-color: #3a3a3a; }
   .button.button-light.button-clear, .button.button-stable.button-clear, .button.button-calm.button-clear, .button.button-assertive.button-clear, .button.button-balanced.button-clear, .button.button-energized.button-clear, .button.button-royal.button-clear {
     border-color: transparent;
     background: none;
     box-shadow: none;
-    color: #0064d2; }
+    color: #3a3a3a; }
   .button.button-light.button-icon, .button.button-stable.button-icon, .button.button-calm.button-icon, .button.button-assertive.button-icon, .button.button-balanced.button-icon, .button.button-energized.button-icon, .button.button-royal.button-icon {
     border-color: transparent;
     background: none; }
   .button.button-light.button-outline, .button.button-stable.button-outline, .button.button-calm.button-outline, .button.button-assertive.button-outline, .button.button-balanced.button-outline, .button.button-energized.button-outline, .button.button-royal.button-outline {
-    border-color: #0064d2;
+    border-color: #3a3a3a;
     background: transparent;
-    color: #0064d2; }
+    color: #3a3a3a; }
     .button.button-light.button-outline.active, .button.button-light.button-outline.activated, .button.button-stable.button-outline.active, .button.button-stable.button-outline.activated, .button.button-calm.button-outline.active, .button.button-calm.button-outline.activated, .button.button-assertive.button-outline.active, .button.button-assertive.button-outline.activated, .button.button-balanced.button-outline.active, .button.button-balanced.button-outline.activated, .button.button-energized.button-outline.active, .button.button-energized.button-outline.activated, .button.button-royal.button-outline.active, .button.button-royal.button-outline.activated {
-      background-color: #0064d2;
+      background-color: #3a3a3a;
       box-shadow: none;
       color: #fff; }
   .button.button-light.active, .button.button-light.activated, .button.button-stable.active, .button.button-stable.activated, .button.button-calm.active, .button.button-calm.activated, .button.button-assertive.active, .button.button-assertive.activated, .button.button-balanced.active, .button.button-balanced.activated, .button.button-energized.active, .button.button-energized.activated, .button.button-royal.active, .button.button-royal.activated {
@@ -10466,15 +10466,15 @@ a.button {
     color: #ffffff; }
 
 .button.button-dark {
-  border-color: #0064d2;
+  border-color: #3a3a3a;
   background-color: #ffffff;
-  color: #0064d2; }
+  color: #3a3a3a; }
   .button.button-dark:hover {
-    color: #0064d2;
+    color: #3a3a3a;
     text-decoration: none; }
   .button.button-dark.active, .button.button-dark.activated {
-    border-color: #0064d2;
-    background-color: #0064d2; }
+    border-color: #3a3a3a;
+    background-color: #3a3a3a; }
   .button.button-dark.button-clear {
     border-color: transparent;
     background: none;
@@ -10484,15 +10484,24 @@ a.button {
     border-color: transparent;
     background: none; }
   .button.button-dark.button-outline {
-    border-color: #0064d2;
+    border-color: #3a3a3a;
     background: transparent;
-    color: #0064d2; }
+    color: #3a3a3a; }
     .button.button-dark.button-outline.active, .button.button-dark.button-outline.activated {
-      background-color: #0064d2;
+      background-color: #3a3a3a;
       box-shadow: none;
       color: #fff; }
   .button.button-dark.button-icon {
     color: #626262; }
+
+.button.button.button-positive {
+  border-color: #d3121a;
+  background-color: #d3121a;
+  color: #fff; }
+
+.button .progress-chart-container .progress-doughnut .progress-indicator svg .circle {
+  stroke: #d3121a;
+  color: #d3121a; }
 
 /**
  * Core styles for the app.
@@ -10513,10 +10522,8 @@ a.button {
  * App Branding
  */
 .mm-bglogo {
-  background-color: #ff5c00;
+  background-color: #eeeeee;
   /* Change this to add a bg image or change color */
-  background: -webkit-radial-gradient(#ff7600, #ff5c00);
-  background: radial-gradient(#ff7600, #ff5c00);
   background-repeat: no-repeat;
   background-position: center center;
   position: absolute;
@@ -10566,21 +10573,21 @@ a.button {
 
 .bar-content {
   border-color: transparent;
-  background-color: #f98012;
+  background-color: #d3121a;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #ffffff; }
   .bar-content .title {
     color: #ffffff; }
   .bar-content .button {
     border-color: transparent;
-    background-color: #f98012;
+    background-color: #d3121a;
     color: #ffffff; }
     .bar-content .button:hover {
       color: #ffffff;
       text-decoration: none; }
     .bar-content .button.active, .bar-content .button.activated {
       border-color: transparent;
-      background-color: #f98012; }
+      background-color: #d3121a; }
     .bar-content .button.button-clear {
       border-color: transparent;
       background: none;
@@ -10743,7 +10750,7 @@ p.item-text-wrap {
 
 /* Show buttons as tabs */
 .mm-tabs-color .tab-item {
-  color: rgba(249, 128, 18, 0.6);
+  color: rgba(211, 18, 26, 0.6);
   opacity: 1; }
   .mm-tabs-color .tab-item .badge, .mm-tabs-color .tab-item .mma-messages-date span, .mma-messages-date .mm-tabs-color .tab-item span, .mm-tabs-color .tab-item
   .mma-messages-unreadfrom span,
@@ -10751,8 +10758,8 @@ p.item-text-wrap {
     opacity: 0.6; }
   .mm-tabs-color .tab-item.tab-item-active, .mm-tabs-color .tab-item.active, .mm-tabs-color .tab-item.activated {
     margin-top: -2px;
-    color: #f98012;
-    border: 0 solid #f98012;
+    color: #d3121a;
+    border: 0 solid #d3121a;
     border-top-width: 2px; }
     .mm-tabs-color .tab-item.tab-item-active .badge, .mm-tabs-color .tab-item.tab-item-active .mma-messages-date span, .mma-messages-date .mm-tabs-color .tab-item.tab-item-active span, .mm-tabs-color .tab-item.tab-item-active
     .mma-messages-unreadfrom span,
@@ -10765,15 +10772,15 @@ p.item-text-wrap {
       opacity: 1; }
 
 .mm-tabs-color .tab-item {
-  color: rgba(249, 128, 18, 0.6);
+  color: rgba(211, 18, 26, 0.6);
   opacity: 1; }
   .mm-tabs-color .tab-item .badge, .mm-tabs-color .tab-item .mma-messages-date span, .mma-messages-date .mm-tabs-color .tab-item span, .mm-tabs-color .tab-item
   .mma-messages-unreadfrom span,
   .mma-messages-unreadfrom .mm-tabs-color .tab-item span, .mm-tabs-color .tab-item .mma-chat-notice span, .mma-chat-notice .mm-tabs-color .tab-item span {
     opacity: 0.6; }
   .mm-tabs-color .tab-item.tab-item-active, .mm-tabs-color .tab-item.active, .mm-tabs-color .tab-item.activated {
-    color: #f98012;
-    border: 0 solid #f98012; }
+    color: #d3121a;
+    border: 0 solid #d3121a; }
     .mm-tabs-color .tab-item.tab-item-active .badge, .mm-tabs-color .tab-item.tab-item-active .mma-messages-date span, .mma-messages-date .mm-tabs-color .tab-item.tab-item-active span, .mm-tabs-color .tab-item.tab-item-active
     .mma-messages-unreadfrom span,
     .mma-messages-unreadfrom .mm-tabs-color .tab-item.tab-item-active span, .mm-tabs-color .tab-item.tab-item-active .mma-chat-notice span, .mma-chat-notice .mm-tabs-color .tab-item.tab-item-active span, .mm-tabs-color .tab-item.active .badge, .mm-tabs-color .tab-item.active .mma-messages-date span, .mma-messages-date .mm-tabs-color .tab-item.active span, .mm-tabs-color .tab-item.active
@@ -10803,7 +10810,7 @@ p.item-text-wrap {
 
 .mm-menu-selected:not(.button), .mm-split-item-selected:not(.button), .item.mma-mod-lesson-selected:not(.button), .mm-grades-table .mma-mod-lesson-selected.itemcenter:not(.button) {
   background-color: #f5f5f5;
-  border-left: 5px solid #fa9b44;
+  border-left: 5px solid #ed2b33;
   padding-left: 12px; }
   .mm-menu-selected:not(.button).item-avatar, .mm-menu-selected.item-media:not(.button), .item-media.mm-split-item-selected:not(.button), .item-media.item.mma-mod-lesson-selected:not(.button), .mm-grades-table .item-media.mma-mod-lesson-selected.itemcenter:not(.button), .mm-menu-selected.item-avatar-center:not(.button), .item-avatar-center.mm-split-item-selected:not(.button), .item-avatar-center.item.mma-mod-lesson-selected:not(.button), .mm-grades-table .item-avatar-center.mma-mod-lesson-selected.itemcenter:not(.button), .mm-split-item-selected:not(.button).item-avatar, .mm-split-item-selected.item-progress:not(.button), .mm-menu-selected.item-progress:not(.button), .item-progress.item.mma-mod-lesson-selected:not(.button), .mm-grades-table .item-progress.mma-mod-lesson-selected.itemcenter:not(.button), .item.mma-mod-lesson-selected:not(.button).item-avatar, .mm-grades-table .mma-mod-lesson-selected.itemcenter:not(.button).item-avatar, .mm-menu-selected:not(.button).item-avatar-left, .mm-split-item-selected:not(.button).item-avatar-left, .item.mma-mod-lesson-selected:not(.button).item-avatar-left, .mm-grades-table .mma-mod-lesson-selected.itemcenter:not(.button).item-avatar-left {
     padding-left: 68px; }
@@ -11098,7 +11105,7 @@ mm-navigation-bar .col {
     margin-bottom: 0; }
 
 .mm-info-card {
-  border-bottom: 3px solid #0064d2;
+  border-bottom: 3px solid #3a3a3a;
   padding: 10px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
   margin: 20px 10px;
@@ -11106,7 +11113,7 @@ mm-navigation-bar .col {
   position: relative;
   text-align: left; }
   .mm-info-card i.icon:before {
-    color: #0064d2;
+    color: #3a3a3a;
     font-size: 125%; }
   .mm-info-card p:last-child {
     margin-bottom: 0; }
@@ -11198,7 +11205,7 @@ mm-navigation-bar .col {
     margin-bottom: 0; }
 
 .mm-info-card-icon {
-  border-bottom: 3px solid #0064d2;
+  border-bottom: 3px solid #3a3a3a;
   padding: 10px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
   margin: 20px 10px;
@@ -11224,7 +11231,7 @@ mm-navigation-bar .col {
     font-size: 24px;
     left: 4px; }
     .mm-info-card-icon i.icon:before {
-      color: #0064d2;
+      color: #3a3a3a;
       display: block;
       width: 24px;
       text-align: center; }
@@ -11292,12 +11299,12 @@ mm-navigation-bar .col {
 
 .item.item-howto, .mm-grades-table .item-howto.itemcenter,
 .mm-info-item {
-  border-bottom: 3px solid #0064d2 !important;
+  border-bottom: 3px solid #3a3a3a !important;
   padding-top: 12px;
   padding-bottom: 9px; }
   .item.item-howto i.icon:before:not(.radio-icon), .mm-grades-table .item-howto.itemcenter i.icon:before:not(.radio-icon),
   .mm-info-item i.icon:before:not(.radio-icon) {
-    color: #0064d2; }
+    color: #3a3a3a; }
 
 .mm-success-item, .mm-site_mod_assign div.earlysubmission,
 .mm-site_mod_assign-submission div.earlysubmission {
@@ -11460,7 +11467,7 @@ mm-timer {
   .mm-text-with-icon-right .icon {
     font-size: 22px;
     padding: 0 5px;
-    color: #0064d2; }
+    color: #3a3a3a; }
 
 .mm-full-width {
   width: 100%; }
@@ -11568,8 +11575,8 @@ input[type="radio"].mm-radio {
     -webkit-transition: background-color 20ms ease-in-out;
     transition: background-color 20ms ease-in-out; }
   input[type="radio"].mm-radio:checked:before {
-    background: #0064d2;
-    border-color: #0064d2; }
+    background: #3a3a3a;
+    border-color: #3a3a3a; }
   input[type="radio"].mm-radio:disabled:before {
     border-color: #dddddd;
     background: #dddddd; }
@@ -11649,7 +11656,7 @@ mm-searchbox .item-input-inset .item-input-wrapper {
     border: 0; }
   .item.mm-tab-handlers .tabs-icon-round, .mm-grades-table .mm-tab-handlers.itemcenter .tabs-icon-round,
   .mm-tab-handlers .tabs-icon-round {
-    color: #0064d2; }
+    color: #3a3a3a; }
     .item.mm-tab-handlers .tabs-icon-round .tab-item.activated, .mm-grades-table .mm-tab-handlers.itemcenter .tabs-icon-round .tab-item.activated,
     .mm-tab-handlers .tabs-icon-round .tab-item.activated {
       opacity: 0.7; }
@@ -11660,7 +11667,7 @@ mm-searchbox .item-input-inset .item-input-wrapper {
       font-size: 22px;
       line-height: 32px;
       color: white;
-      background-color: #0064d2;
+      background-color: #3a3a3a;
       margin-bottom: 5px; }
       .item.mm-tab-handlers .tabs-icon-round .icon:before, .mm-grades-table .mm-tab-handlers.itemcenter .tabs-icon-round .icon:before,
       .mm-tab-handlers .tabs-icon-round .icon:before {
@@ -11988,7 +11995,7 @@ progress {
     border-radius: 2px;
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1) inset; }
   progress[value]::-webkit-progress-value {
-    background-color: #fa9b44;
+    background-color: #ed2b33;
     border-radius: 2px; }
 
 mm-progress-bar {
@@ -12366,22 +12373,12 @@ mm-course-mod-description .card .item, mm-course-mod-description .card .mm-grade
 .padding mm-course-mod-description .card, .item .item-heading.padding mm-course-mod-description .card, .mm-grades-table .itemcenter .item-heading.padding mm-course-mod-description .card {
   margin-top: 0; }
 
-.mm-fileuploader-file-handler input {
-  position: absolute;
-  top: 0;
-  right: 0;
-  min-width: 100%;
-  min-height: 100%;
-  opacity: 0;
-  outline: none;
-  z-index: 100; }
-
 .item-course > .icon, .item-course > ion-spinner {
   height: 40px;
   width: 40px;
   right: 0;
   top: 6px;
-  color: #626262;
+  color: #d3121a;
   position: absolute; }
 
 .item-progress {
@@ -12404,7 +12401,7 @@ mm-course-mod-description .card .item, mm-course-mod-description .card .mm-grade
     height: 70px;
     width: 70px;
     background-clip: padding-box;
-    border: 15px solid #eeeeee;
+    border: 5px solid #eeeeee;
     border-radius: 50%;
     box-sizing: border-box;
     display: table; }
@@ -12412,13 +12409,13 @@ mm-course-mod-description .card .item, mm-course-mod-description .card .mm-grade
       display: table-cell;
       text-align: center;
       vertical-align: middle;
-      color: #626262;
+      color: #d3121a;
       font-size: 95%;
       letter-spacing: -1px; }
     .progress-chart-container .progress-doughnut .progress-indicator {
       position: absolute;
-      top: -15px;
-      left: -15px;
+      top: -5px;
+      left: -5px;
       height: 70px;
       width: 70px; }
       .progress-chart-container .progress-doughnut .progress-indicator svg {
@@ -12426,211 +12423,211 @@ mm-course-mod-description .card .item, mm-course-mod-description .card .mm-grade
         height: 100%;
         width: 100%; }
         .progress-chart-container .progress-doughnut .progress-indicator svg .circle {
-          stroke-width: 15px;
-          stroke: #fa9b44;
+          stroke-width: 5px;
+          stroke: #d3121a;
           fill: none;
-          stroke-dasharray: 173;
-          stroke-dashoffset: 173;
+          stroke-dasharray: 204.01;
+          stroke-dashoffset: 204.01;
           transform: rotate(-90deg);
           transform-origin: center center; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-1 {
-            stroke-dashoffset: 171.27; }
+            stroke-dashoffset: 201.9699; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-2 {
-            stroke-dashoffset: 169.54; }
+            stroke-dashoffset: 199.9298; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-3 {
-            stroke-dashoffset: 167.81; }
+            stroke-dashoffset: 197.8897; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-4 {
-            stroke-dashoffset: 166.08; }
+            stroke-dashoffset: 195.8496; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-5 {
-            stroke-dashoffset: 164.35; }
+            stroke-dashoffset: 193.8095; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-6 {
-            stroke-dashoffset: 162.62; }
+            stroke-dashoffset: 191.7694; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-7 {
-            stroke-dashoffset: 160.89; }
+            stroke-dashoffset: 189.7293; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-8 {
-            stroke-dashoffset: 159.16; }
+            stroke-dashoffset: 187.6892; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-9 {
-            stroke-dashoffset: 157.43; }
+            stroke-dashoffset: 185.6491; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-10 {
-            stroke-dashoffset: 155.7; }
+            stroke-dashoffset: 183.609; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-11 {
-            stroke-dashoffset: 153.97; }
+            stroke-dashoffset: 181.5689; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-12 {
-            stroke-dashoffset: 152.24; }
+            stroke-dashoffset: 179.5288; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-13 {
-            stroke-dashoffset: 150.51; }
+            stroke-dashoffset: 177.4887; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-14 {
-            stroke-dashoffset: 148.78; }
+            stroke-dashoffset: 175.4486; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-15 {
-            stroke-dashoffset: 147.05; }
+            stroke-dashoffset: 173.4085; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-16 {
-            stroke-dashoffset: 145.32; }
+            stroke-dashoffset: 171.3684; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-17 {
-            stroke-dashoffset: 143.59; }
+            stroke-dashoffset: 169.3283; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-18 {
-            stroke-dashoffset: 141.86; }
+            stroke-dashoffset: 167.2882; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-19 {
-            stroke-dashoffset: 140.13; }
+            stroke-dashoffset: 165.2481; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-20 {
-            stroke-dashoffset: 138.4; }
+            stroke-dashoffset: 163.208; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-21 {
-            stroke-dashoffset: 136.67; }
+            stroke-dashoffset: 161.1679; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-22 {
-            stroke-dashoffset: 134.94; }
+            stroke-dashoffset: 159.1278; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-23 {
-            stroke-dashoffset: 133.21; }
+            stroke-dashoffset: 157.0877; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-24 {
-            stroke-dashoffset: 131.48; }
+            stroke-dashoffset: 155.0476; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-25 {
-            stroke-dashoffset: 129.75; }
+            stroke-dashoffset: 153.0075; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-26 {
-            stroke-dashoffset: 128.02; }
+            stroke-dashoffset: 150.9674; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-27 {
-            stroke-dashoffset: 126.29; }
+            stroke-dashoffset: 148.9273; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-28 {
-            stroke-dashoffset: 124.56; }
+            stroke-dashoffset: 146.8872; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-29 {
-            stroke-dashoffset: 122.83; }
+            stroke-dashoffset: 144.8471; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-30 {
-            stroke-dashoffset: 121.1; }
+            stroke-dashoffset: 142.807; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-31 {
-            stroke-dashoffset: 119.37; }
+            stroke-dashoffset: 140.7669; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-32 {
-            stroke-dashoffset: 117.64; }
+            stroke-dashoffset: 138.7268; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-33 {
-            stroke-dashoffset: 115.91; }
+            stroke-dashoffset: 136.6867; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-34 {
-            stroke-dashoffset: 114.18; }
+            stroke-dashoffset: 134.6466; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-35 {
-            stroke-dashoffset: 112.45; }
+            stroke-dashoffset: 132.6065; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-36 {
-            stroke-dashoffset: 110.72; }
+            stroke-dashoffset: 130.5664; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-37 {
-            stroke-dashoffset: 108.99; }
+            stroke-dashoffset: 128.5263; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-38 {
-            stroke-dashoffset: 107.26; }
+            stroke-dashoffset: 126.4862; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-39 {
-            stroke-dashoffset: 105.53; }
+            stroke-dashoffset: 124.4461; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-40 {
-            stroke-dashoffset: 103.8; }
+            stroke-dashoffset: 122.406; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-41 {
-            stroke-dashoffset: 102.07; }
+            stroke-dashoffset: 120.3659; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-42 {
-            stroke-dashoffset: 100.34; }
+            stroke-dashoffset: 118.3258; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-43 {
-            stroke-dashoffset: 98.61; }
+            stroke-dashoffset: 116.2857; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-44 {
-            stroke-dashoffset: 96.88; }
+            stroke-dashoffset: 114.2456; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-45 {
-            stroke-dashoffset: 95.15; }
+            stroke-dashoffset: 112.2055; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-46 {
-            stroke-dashoffset: 93.42; }
+            stroke-dashoffset: 110.1654; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-47 {
-            stroke-dashoffset: 91.69; }
+            stroke-dashoffset: 108.1253; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-48 {
-            stroke-dashoffset: 89.96; }
+            stroke-dashoffset: 106.0852; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-49 {
-            stroke-dashoffset: 88.23; }
+            stroke-dashoffset: 104.0451; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-50 {
-            stroke-dashoffset: 86.5; }
+            stroke-dashoffset: 102.005; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-51 {
-            stroke-dashoffset: 84.77; }
+            stroke-dashoffset: 99.9649; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-52 {
-            stroke-dashoffset: 83.04; }
+            stroke-dashoffset: 97.9248; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-53 {
-            stroke-dashoffset: 81.31; }
+            stroke-dashoffset: 95.8847; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-54 {
-            stroke-dashoffset: 79.58; }
+            stroke-dashoffset: 93.8446; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-55 {
-            stroke-dashoffset: 77.85; }
+            stroke-dashoffset: 91.8045; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-56 {
-            stroke-dashoffset: 76.12; }
+            stroke-dashoffset: 89.7644; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-57 {
-            stroke-dashoffset: 74.39; }
+            stroke-dashoffset: 87.7243; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-58 {
-            stroke-dashoffset: 72.66; }
+            stroke-dashoffset: 85.6842; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-59 {
-            stroke-dashoffset: 70.93; }
+            stroke-dashoffset: 83.6441; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-60 {
-            stroke-dashoffset: 69.2; }
+            stroke-dashoffset: 81.604; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-61 {
-            stroke-dashoffset: 67.47; }
+            stroke-dashoffset: 79.5639; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-62 {
-            stroke-dashoffset: 65.74; }
+            stroke-dashoffset: 77.5238; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-63 {
-            stroke-dashoffset: 64.01; }
+            stroke-dashoffset: 75.4837; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-64 {
-            stroke-dashoffset: 62.28; }
+            stroke-dashoffset: 73.4436; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-65 {
-            stroke-dashoffset: 60.55; }
+            stroke-dashoffset: 71.4035; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-66 {
-            stroke-dashoffset: 58.82; }
+            stroke-dashoffset: 69.3634; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-67 {
-            stroke-dashoffset: 57.09; }
+            stroke-dashoffset: 67.3233; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-68 {
-            stroke-dashoffset: 55.36; }
+            stroke-dashoffset: 65.2832; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-69 {
-            stroke-dashoffset: 53.63; }
+            stroke-dashoffset: 63.2431; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-70 {
-            stroke-dashoffset: 51.9; }
+            stroke-dashoffset: 61.203; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-71 {
-            stroke-dashoffset: 50.17; }
+            stroke-dashoffset: 59.1629; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-72 {
-            stroke-dashoffset: 48.44; }
+            stroke-dashoffset: 57.1228; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-73 {
-            stroke-dashoffset: 46.71; }
+            stroke-dashoffset: 55.0827; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-74 {
-            stroke-dashoffset: 44.98; }
+            stroke-dashoffset: 53.0426; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-75 {
-            stroke-dashoffset: 43.25; }
+            stroke-dashoffset: 51.0025; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-76 {
-            stroke-dashoffset: 41.52; }
+            stroke-dashoffset: 48.9624; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-77 {
-            stroke-dashoffset: 39.79; }
+            stroke-dashoffset: 46.9223; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-78 {
-            stroke-dashoffset: 38.06; }
+            stroke-dashoffset: 44.8822; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-79 {
-            stroke-dashoffset: 36.33; }
+            stroke-dashoffset: 42.8421; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-80 {
-            stroke-dashoffset: 34.6; }
+            stroke-dashoffset: 40.802; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-81 {
-            stroke-dashoffset: 32.87; }
+            stroke-dashoffset: 38.7619; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-82 {
-            stroke-dashoffset: 31.14; }
+            stroke-dashoffset: 36.7218; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-83 {
-            stroke-dashoffset: 29.41; }
+            stroke-dashoffset: 34.6817; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-84 {
-            stroke-dashoffset: 27.68; }
+            stroke-dashoffset: 32.6416; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-85 {
-            stroke-dashoffset: 25.95; }
+            stroke-dashoffset: 30.6015; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-86 {
-            stroke-dashoffset: 24.22; }
+            stroke-dashoffset: 28.5614; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-87 {
-            stroke-dashoffset: 22.49; }
+            stroke-dashoffset: 26.5213; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-88 {
-            stroke-dashoffset: 20.76; }
+            stroke-dashoffset: 24.4812; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-89 {
-            stroke-dashoffset: 19.03; }
+            stroke-dashoffset: 22.4411; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-90 {
-            stroke-dashoffset: 17.3; }
+            stroke-dashoffset: 20.401; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-91 {
-            stroke-dashoffset: 15.57; }
+            stroke-dashoffset: 18.3609; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-92 {
-            stroke-dashoffset: 13.84; }
+            stroke-dashoffset: 16.3208; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-93 {
-            stroke-dashoffset: 12.11; }
+            stroke-dashoffset: 14.2807; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-94 {
-            stroke-dashoffset: 10.38; }
+            stroke-dashoffset: 12.2406; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-95 {
-            stroke-dashoffset: 8.65; }
+            stroke-dashoffset: 10.2005; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-96 {
-            stroke-dashoffset: 6.92; }
+            stroke-dashoffset: 8.1604; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-97 {
-            stroke-dashoffset: 5.19; }
+            stroke-dashoffset: 6.1203; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-98 {
-            stroke-dashoffset: 3.46; }
+            stroke-dashoffset: 4.0802; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-99 {
-            stroke-dashoffset: 1.73; }
+            stroke-dashoffset: 2.0401; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-100 {
             stroke-dashoffset: 0; }
   .progress-chart-container .no-progress {
@@ -12696,6 +12693,16 @@ mm-course-list-item
 .mm-site_mod_assign-submission
 mm-course-list-item div.item-icon-left.earlysubmission {
   color: #3a3a3a; }
+
+.mm-fileuploader-file-handler input {
+  position: absolute;
+  top: 0;
+  right: 0;
+  min-width: 100%;
+  min-height: 100%;
+  opacity: 0;
+  outline: none;
+  z-index: 100; }
 
 /* - User grades table (most of it extracted from MM1)
 -------------------------------------------------------------------------- */
@@ -12952,9 +12959,12 @@ li.mm-question-answer-incorrect,
 .mm-question-warning, p.mm-question-warning, .item .mm-question-warning, .mm-grades-table .itemcenter .mm-question-warning {
   color: #cb3d4d; }
 
+#mm-settings-languagelabel {
+  color: #3a3a3a; }
+
 .bar-side-menu {
   border-color: transparent;
-  background-color: #f98012;
+  background-color: #d3121a;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #ffffff;
   height: 80px !important; }
@@ -12993,9 +13003,6 @@ li.mm-question-answer-incorrect,
 .mm-site_mm_user-profile .mm-tab-handlers {
   padding-bottom: 16px; }
 
-#mm-settings-languagelabel {
-  color: #3a3a3a; }
-
 .mm-site_frontpage .mma-frontpage-item-container .item-media {
   min-height: 55px;
   padding-left: 54px; }
@@ -13023,50 +13030,13 @@ li.mm-question-answer-incorrect,
 .mma-messages-unreadfrom .mm-grades-table .mm-site_coursesgrades .itemcenter span, .mm-site_coursesgrades .item .mma-chat-notice span, .mma-chat-notice .mm-site_coursesgrades .item span, .mm-site_coursesgrades .mm-grades-table .itemcenter .mma-chat-notice span, .mma-chat-notice .mm-site_coursesgrades .mm-grades-table .itemcenter span, .mm-grades-table .mm-site_coursesgrades .itemcenter .mma-chat-notice span, .mma-chat-notice .mm-grades-table .mm-site_coursesgrades .itemcenter span {
   right: 16px; }
 
-@media only screen and (min-width: 567px) {
-  .mm-course-grid {
-    padding: 0;
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: space-around;
-    flex-wrap: wrap; }
-    .mm-course-grid mm-course-list-progress {
-      padding: 0 6px;
-      margin: 0;
-      max-width: 50%;
-      width: 50%;
-      display: flex; }
-      .mm-course-grid mm-course-list-progress .card {
-        width: 100%;
-        align-items: stretch; }
-    .mm-course-grid:after {
-      content: '';
-      width: 100%; } }
-
-.mm-timelinesort {
-  float: right; }
-
-.mm-timelinetitle {
-  float: left;
-  padding: 5px; }
-
-.mm-site_myoverview mm-course-list-progress .card {
-  margin-top: 0; }
-  .mm-site_myoverview mm-course-list-progress .card h5 {
-    margin-left: 10px; }
-  .mm-site_myoverview mm-course-list-progress .card .list.block .item, .mm-site_myoverview mm-course-list-progress .card .list.block .mm-grades-table .itemcenter, .mm-grades-table .mm-site_myoverview mm-course-list-progress .card .list.block .itemcenter {
-    border-top: 1px solid #dddddd;
-    border-bottom: 1px solid #dddddd; }
-  .mm-site_myoverview mm-course-list-progress .card .list.block:last-child .item, .mm-site_myoverview mm-course-list-progress .card .list.block:last-child .mm-grades-table .itemcenter, .mm-grades-table .mm-site_myoverview mm-course-list-progress .card .list.block:last-child .itemcenter {
-    border-bottom: 0; }
-
 .mma-messages-date,
 .mma-messages-unreadfrom {
   text-align: center;
   margin-top: 10px; }
 
 .mma-messages-unreadfrom {
-  color: #0064d2; }
+  color: #3a3a3a; }
 
 .mma-messages-input-inset {
   padding-top: 0;
@@ -13133,6 +13103,609 @@ li.mm-question-answer-incorrect,
 .mma-messages-showprevious-spinner-container {
   width: 100%;
   text-align: center; }
+
+@media only screen and (min-width: 567px) {
+  .mm-course-grid {
+    padding: 0;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    flex-wrap: wrap; }
+    .mm-course-grid mm-course-list-progress {
+      padding: 0 6px;
+      margin: 0;
+      max-width: 50%;
+      width: 50%;
+      display: flex; }
+      .mm-course-grid mm-course-list-progress .card {
+        width: 100%;
+        align-items: stretch; }
+    .mm-course-grid:after {
+      content: '';
+      width: 100%; } }
+
+.mm-timelinesort {
+  float: right; }
+
+.mm-timelinetitle {
+  float: left;
+  padding: 5px; }
+
+.mm-site_myoverview mm-course-list-progress .card {
+  margin-top: 0; }
+  .mm-site_myoverview mm-course-list-progress .card h5 {
+    margin-left: 10px; }
+  .mm-site_myoverview mm-course-list-progress .card .list.block .item, .mm-site_myoverview mm-course-list-progress .card .list.block .mm-grades-table .itemcenter, .mm-grades-table .mm-site_myoverview mm-course-list-progress .card .list.block .itemcenter {
+    border-top: 1px solid #dddddd;
+    border-bottom: 1px solid #dddddd; }
+  .mm-site_myoverview mm-course-list-progress .card .list.block:last-child .item, .mm-site_myoverview mm-course-list-progress .card .list.block:last-child .mm-grades-table .itemcenter, .mm-grades-table .mm-site_myoverview mm-course-list-progress .card .list.block:last-child .itemcenter {
+    border-bottom: 0; }
+
+.mm-site_mod_assign div.submissioneditable p,
+.mm-site_mod_assign-submission div.submissioneditable p {
+  color: #cb3d4d; }
+
+p.mma-mod-assign-warning {
+  color: #cb3d4d; }
+
+/** Grading */
+.mm-grading-summary .advancedgrade {
+  display: none; }
+
+.gradingform_rubric {
+  overflow: auto;
+  padding-bottom: 1.5em; }
+  .gradingform_rubric .criterion {
+    border: 1px solid #dddddd;
+    overflow: hidden; }
+    .gradingform_rubric .criterion.even {
+      background: #f5f5f5; }
+    .gradingform_rubric .criterion .description,
+    .gradingform_rubric .criterion .levels,
+    .gradingform_rubric .criterion .remark,
+    .gradingform_rubric .criterion .levels .level {
+      vertical-align: top; }
+    .gradingform_rubric .criterion .description,
+    .gradingform_rubric .criterion .remark,
+    .gradingform_rubric .criterion .levels .level {
+      padding: 3px; }
+    .gradingform_rubric .criterion .description {
+      width: 150px;
+      font-weight: bold; }
+    .gradingform_rubric .criterion .levels table {
+      width: 100%;
+      height: 100%; }
+    .gradingform_rubric .criterion .levels,
+    .gradingform_rubric .criterion .levels table,
+    .gradingform_rubric .criterion .levels table tbody {
+      padding: 0;
+      margin: 0; }
+    .gradingform_rubric .criterion .levels .level {
+      border-left: 1px solid #dddddd;
+      max-width: 150px; }
+    .gradingform_rubric .criterion .levels .level .level-wrapper {
+      position: relative; }
+    .gradingform_rubric .criterion .levels .level.last {
+      border-right: 1px solid #dddddd; }
+    .gradingform_rubric .criterion .levels .level .score {
+      font-style: italic;
+      color: #394e00;
+      font-weight: bold;
+      margin-top: 5px;
+      white-space: nowrap; }
+    .gradingform_rubric .criterion .levels .level .score .scorevalue {
+      padding-right: 5px; }
+    .gradingform_rubric .criterion .levels .level.currentchecked {
+      background: #fff0f0; }
+    .gradingform_rubric .criterion .levels .level.checked {
+      background: #dfe6cc; }
+    .gradingform_rubric .criterion .description.error,
+    .gradingform_rubric .criterion .levels .level .definition.error,
+    .gradingform_rubric .criterion .levels .level .score.error {
+      background: #FFDDDD; }
+    .gradingform_rubric .criterion .levels.error {
+      border: 1px solid #cb3d4d; }
+  .gradingform_rubric .options .optionsheading {
+    font-weight: bold;
+    font-size: 1.1em;
+    padding-bottom: 5px; }
+  .gradingform_rubric .options .option {
+    padding-bottom: 2px; }
+  .gradingform_rubric .options .option label {
+    margin-left: 5px; }
+  .gradingform_rubric .options .option .value {
+    margin-left: 5px;
+    font-weight: bold; }
+  .gradingform_rubric .plainvalue.empty {
+    font-style: italic;
+    color: #AAA; }
+  .gradingform_rubric .criteria {
+    height: 100%;
+    background: #ffffff; }
+
+.gradingform_rubric-regrade {
+  padding: 10px;
+  background: #FFDDDD;
+  border: 1px solid #cb3d4d;
+  margin-bottom: 10px; }
+
+.gradingform_rubric-restored {
+  padding: 10px;
+  background: #FFFFDD;
+  border: 1px solid #FF0;
+  margin-bottom: 10px; }
+
+.gradingform_rubric-error {
+  color: #cb3d4d;
+  font-weight: bold; }
+
+.gradingform_guide-regrade {
+  padding: 10px;
+  background: #FFDDDD;
+  border: 1px solid #F00;
+  margin-bottom: 10px; }
+
+.gradingform_guide-restored {
+  padding: 10px;
+  background: #FFFFDD;
+  border: 1px solid #FF0;
+  margin-bottom: 10px; }
+
+.gradingform_guide-error {
+  color: red;
+  font-weight: bold; }
+
+.gradingform_guide .hidden {
+  display: none; }
+
+.gradingform_guide td {
+  padding: 8px; }
+
+.gradingform_guide .criterion {
+  border: 1px solid #dddddd;
+  overflow: hidden; }
+  .gradingform_guide .criterion .description,
+  .gradingform_guide .criterion .remark {
+    vertical-align: top; }
+  .gradingform_guide .criterion.even {
+    background: #f5f5f5; }
+  .gradingform_guide .criterion .description {
+    width: 100%; }
+  .gradingform_guide .criterion .description .criterionname {
+    font-weight: bold; }
+  .gradingform_guide .criterion label {
+    display: block;
+    font-weight: bold;
+    padding-right: 5px; }
+  .gradingform_guide .criterion .description.error {
+    background: #FFDDDD; }
+
+.gradingform_guide .criterionnamelabel {
+  display: none; }
+
+.gradingform_guide .criterionshortname {
+  font-weight: bold; }
+
+.gradingform_guide .plainvalue.empty {
+  font-style: italic;
+  color: #AAA; }
+
+.gradingform_guide .plainvalue.editname {
+  font-weight: bold; }
+
+.gradingform_guide .options .optionsheading {
+  font-weight: bold;
+  font-size: 1.1em;
+  padding-bottom: 5px; }
+
+.gradingform_guide .options .option {
+  padding-bottom: 2px; }
+
+.gradingform_guide .options .option label {
+  margin-left: 5px; }
+
+.gradingform_guide .options .option .value {
+  margin-left: 5px;
+  font-weight: bold; }
+
+.gradingform_guide .commentheader {
+  font-weight: bold;
+  font-size: 1.1em;
+  padding-bottom: 5px; }
+
+.gradingform_guide table {
+  width: 100%; }
+
+.gradingform_guide .descriptionreadonly {
+  vertical-align: top; }
+
+.gradingform_guide .criteriondescriptionmarkers {
+  width: 300px; }
+
+.gradingform_guide .markingguideremark {
+  margin: 0;
+  width: 100%;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+.gradingform_guide .criteriondescriptionscore {
+  display: inline; }
+
+.gradingform_guide .score label {
+  display: block; }
+
+.gradingform_guide .score input {
+  margin: 0;
+  width: auto; }
+
+.mma-chat-notice {
+  text-align: center;
+  margin-top: 10px; }
+  .mma-chat-notice span {
+    white-space: normal; }
+
+.mma-chat-input-inset {
+  padding-top: 0;
+  padding-left: 0;
+  padding-bottom: 0; }
+
+.mma-chat-footer-note {
+  color: #444;
+  font-size: 14px;
+  text-align: center;
+  margin: 0;
+  width: 100%; }
+
+.mma-chat-send-form {
+  width: 100%; }
+
+.mma-chat-reconnect-button, .button.mma-chat-reconnect-button {
+  margin: 0; }
+
+.mma-mod_chat-users-modal .item-complex .item-avatar, .mma-mod_chat-users-modal .item-complex .item-media, .mma-mod_chat-users-modal .item-complex .item-avatar-center, .mma-mod_chat-users-modal .item-complex .item-progress {
+  padding-bottom: 0; }
+  .mma-mod_chat-users-modal .item-complex .item-avatar .tabs, .mma-mod_chat-users-modal .item-complex .item-media .tabs, .mma-mod_chat-users-modal .item-complex .item-avatar-center .tabs, .mma-mod_chat-users-modal .item-complex .item-progress .tabs {
+    border: 0; }
+
+.mma-mod_chat-users-modal .button-bar {
+  padding: 0;
+  border: 0; }
+  .mma-mod_chat-users-modal .button-bar .button {
+    border: 0; }
+
+.mm-site_mod_choice .chart {
+  max-width: 400px;
+  margin: 0 auto; }
+
+@media (min-width: 767px) {
+  .mm-site_mod_choice .col {
+    border-left: 1px solid #dddddd; }
+    .mm-site_mod_choice .col.item, .mm-site_mod_choice .mm-grades-table .col.itemcenter, .mm-grades-table .mm-site_mod_choice .col.itemcenter, .mm-site_mod_choice .col .chart-item {
+      margin-top: 0;
+      border-top: 0; }
+    .mm-site_mod_choice .col:first-child {
+      border-left: 0; } }
+
+.mm-site_mod_feedback .mm-analysis ul {
+  font-size: 14px; }
+
+.mm-site_mod_feedback .mm-analysis .item .chart, .mm-site_mod_feedback .mm-analysis .mm-grades-table .itemcenter .chart, .mm-grades-table .mm-site_mod_feedback .mm-analysis .itemcenter .chart {
+  max-width: 500px;
+  margin: 0 auto; }
+
+.mm-site_mod_feedback-form .item-select select {
+  position: relative;
+  padding: 8px;
+  max-width: 100%;
+  width: 100%;
+  direction: ltr; }
+
+.mm-site_mod_feedback-form input, .mm-site_mod_feedback-form textarea {
+  background: transparent; }
+
+.mma-forum-discussion-link {
+  text-decoration: none; }
+  .mma-forum-discussion-link.mm-split-item-selected,
+  .mma-forum-discussion-link.mm-split-item-selected > .item, .mm-grades-table
+  .mma-forum-discussion-link.mm-split-item-selected > .itemcenter {
+    border-left: 0;
+    padding-left: 0; }
+    .mma-forum-discussion-link.mm-split-item-selected article .item-heading,
+    .mma-forum-discussion-link.mm-split-item-selected > .item article .item-heading, .mm-grades-table
+    .mma-forum-discussion-link.mm-split-item-selected > .itemcenter article .item-heading {
+      border-top: 5px solid #d3121a;
+      margin-top: -1px; }
+
+.mma-forum-align-right {
+  justify-content: flex-end; }
+
+.mma-forum-border {
+  border-color: #dddddd;
+  border-width: 1px;
+  border-style: solid; }
+
+.mma-forum-reply-edit {
+  padding: 8px; }
+
+.mm-site_mod_forum .item.item-heading, .mm-site_mod_forum .mm-grades-table .item-heading.itemcenter, .mm-grades-table .mm-site_mod_forum .item-heading.itemcenter, .mm-site_mod_forum-discussion .item.item-heading, .mm-site_mod_forum-discussion .mm-grades-table .item-heading.itemcenter, .mm-grades-table .mm-site_mod_forum-discussion .item-heading.itemcenter {
+  padding-bottom: 2px; }
+  .mm-site_mod_forum .item.item-heading .mm-subject, .mm-site_mod_forum .mm-grades-table .item-heading.itemcenter .mm-subject, .mm-grades-table .mm-site_mod_forum .item-heading.itemcenter .mm-subject, .mm-site_mod_forum-discussion .item.item-heading .mm-subject, .mm-site_mod_forum-discussion .mm-grades-table .item-heading.itemcenter .mm-subject, .mm-grades-table .mm-site_mod_forum-discussion .item-heading.itemcenter .mm-subject {
+    font-size: 90%; }
+  .mm-site_mod_forum .item.item-heading .item-note, .mm-site_mod_forum .mm-grades-table .item-heading.itemcenter .item-note, .mm-grades-table .mm-site_mod_forum .item-heading.itemcenter .item-note, .mm-site_mod_forum-discussion .item.item-heading .item-note, .mm-site_mod_forum-discussion .mm-grades-table .item-heading.itemcenter .item-note, .mm-grades-table .mm-site_mod_forum-discussion .item-heading.itemcenter .item-note {
+    font-size: 80%;
+    margin-left: 5px; }
+
+.mm-site_mod_forum .card.highlight .item.item-heading, .mm-site_mod_forum .card.highlight .mm-grades-table .item-heading.itemcenter, .mm-grades-table .mm-site_mod_forum .card.highlight .item-heading.itemcenter, .mm-site_mod_forum-discussion .card.highlight .item.item-heading, .mm-site_mod_forum-discussion .card.highlight .mm-grades-table .item-heading.itemcenter, .mm-grades-table .mm-site_mod_forum-discussion .card.highlight .item-heading.itemcenter {
+  background-color: #f5f5f5; }
+  .mm-site_mod_forum .card.highlight .item.item-heading h2, .mm-site_mod_forum .card.highlight .mm-grades-table .item-heading.itemcenter h2, .mm-grades-table .mm-site_mod_forum .card.highlight .item-heading.itemcenter h2, .mm-site_mod_forum .card.highlight .item.item-heading .item-heading, .mm-site_mod_forum .card.highlight .mm-grades-table .item-heading.itemcenter .item-heading, .mm-grades-table .mm-site_mod_forum .card.highlight .item-heading.itemcenter .item-heading, .mm-site_mod_forum-discussion .card.highlight .item.item-heading h2, .mm-site_mod_forum-discussion .card.highlight .mm-grades-table .item-heading.itemcenter h2, .mm-grades-table .mm-site_mod_forum-discussion .card.highlight .item-heading.itemcenter h2, .mm-site_mod_forum-discussion .card.highlight .item.item-heading .item-heading, .mm-site_mod_forum-discussion .card.highlight .mm-grades-table .item-heading.itemcenter .item-heading, .mm-grades-table .mm-site_mod_forum-discussion .card.highlight .item-heading.itemcenter .item-heading {
+    font-weight: bold; }
+
+.mm-nest-cards .mm-nested-card {
+  padding: 0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+  margin: 1px 10px 10px;
+  border-radius: 0;
+  background-color: #ffffff; }
+  .mm-nest-cards .mm-nested-card .item, .mm-nest-cards .mm-nested-card .mm-grades-table .itemcenter, .mm-grades-table .mm-nest-cards .mm-nested-card .itemcenter {
+    border-left: 0;
+    border-right: 0; }
+  .mm-nest-cards .mm-nested-card .item-media:first-child {
+    border-top: 0; }
+  .mm-nest-cards .mm-nested-card .item-media:last-child {
+    border-bottom: 0; }
+
+.mm-nest-cards .item-divider {
+  display: none; }
+
+.mm-nest-cards .mm-nested {
+  margin-left: 10px; }
+  .mm-nest-cards .mm-nested > article:nth-child(even) > .mm-nested-card > mma-mod-forum-discussion-post > .item-heading {
+    background: #eeeeee; }
+
+.mm-nest-cards .mma-forum-reply-edit {
+  padding: 0;
+  border: 0; }
+
+.mma-mod-lesson-slideshow {
+  max-width: 100%;
+  max-height: 100%; }
+
+.mma-mod-lesson-ongoingscore,
+.item.mma-mod-lesson-ongoingscore,
+.mm-grades-table .mma-mod-lesson-ongoingscore.itemcenter,
+.mma-mod-lesson-ongoingscore span,
+.item.mma-mod-lesson-ongoingscore span, .mm-grades-table .mma-mod-lesson-ongoingscore.itemcenter span {
+  color: #626262;
+  font-size: 14px; }
+
+.mma-mod_lesson-lessonstats .item.row .col-33, .mma-mod_lesson-lessonstats .mm-grades-table .row.itemcenter .col-33, .mm-grades-table .mma-mod_lesson-lessonstats .row.itemcenter .col-33,
+.mma-mod_lesson-lessonstats .item.row .col-50,
+.mma-mod_lesson-lessonstats .mm-grades-table .row.itemcenter .col-50, .mm-grades-table
+.mma-mod_lesson-lessonstats .row.itemcenter .col-50, .mma-mod_lesson-userstats .item.row .col-33, .mma-mod_lesson-userstats .mm-grades-table .row.itemcenter .col-33, .mm-grades-table .mma-mod_lesson-userstats .row.itemcenter .col-33,
+.mma-mod_lesson-userstats .item.row .col-50,
+.mma-mod_lesson-userstats .mm-grades-table .row.itemcenter .col-50, .mm-grades-table
+.mma-mod_lesson-userstats .row.itemcenter .col-50 {
+  border-color: #dddddd;
+  border-style: solid; }
+  .mma-mod_lesson-lessonstats .item.row .col-33:not(:first-child), .mma-mod_lesson-lessonstats .mm-grades-table .row.itemcenter .col-33:not(:first-child), .mm-grades-table .mma-mod_lesson-lessonstats .row.itemcenter .col-33:not(:first-child),
+  .mma-mod_lesson-lessonstats .item.row .col-50:not(:first-child),
+  .mma-mod_lesson-lessonstats .mm-grades-table .row.itemcenter .col-50:not(:first-child), .mm-grades-table
+  .mma-mod_lesson-lessonstats .row.itemcenter .col-50:not(:first-child), .mma-mod_lesson-userstats .item.row .col-33:not(:first-child), .mma-mod_lesson-userstats .mm-grades-table .row.itemcenter .col-33:not(:first-child), .mm-grades-table .mma-mod_lesson-userstats .row.itemcenter .col-33:not(:first-child),
+  .mma-mod_lesson-userstats .item.row .col-50:not(:first-child),
+  .mma-mod_lesson-userstats .mm-grades-table .row.itemcenter .col-50:not(:first-child), .mm-grades-table
+  .mma-mod_lesson-userstats .row.itemcenter .col-50:not(:first-child) {
+    border-left-width: 1px; }
+
+.mm-site_mod_lesson-userretake .mma-mod_lesson-answer .item, .mm-site_mod_lesson-userretake .mma-mod_lesson-answer .mm-grades-table .itemcenter, .mm-grades-table .mm-site_mod_lesson-userretake .mma-mod_lesson-answer .itemcenter {
+  border-top: 1px solid #dddddd;
+  border-radius: 0; }
+
+.mm-site_mod_lesson-userretake .highlight {
+  background-color: #cce0f6; }
+  .mm-site_mod_lesson-userretake .highlight p {
+    color: #004c9f; }
+
+p.mma-mod-quiz-warning {
+  color: #cb3d4d; }
+
+.mm-site_mod_quiz .row, .mm-site_mod_quiz-player .row {
+  min-height: 57px; }
+  .mm-site_mod_quiz .row .button.button-block, .mm-site_mod_quiz-player .row .button.button-block {
+    margin: 0; }
+
+.item.mma-mod-quiz-highlighted, .mm-grades-table .mma-mod-quiz-highlighted.itemcenter,
+.platform-android .item.mma-mod-quiz-highlighted,
+.platform-android .mm-grades-table .mma-mod-quiz-highlighted.itemcenter, .mm-grades-table
+.platform-android .mma-mod-quiz-highlighted.itemcenter,
+.platform-ios .item.mma-mod-quiz-highlighted,
+.platform-ios .mm-grades-table .mma-mod-quiz-highlighted.itemcenter, .mm-grades-table
+.platform-ios .mma-mod-quiz-highlighted.itemcenter,
+.mma-mod-quiz-table .item.row.mma-mod-quiz-highlighted,
+.mma-mod-quiz-table .mm-grades-table .row.mma-mod-quiz-highlighted.itemcenter, .mm-grades-table
+.mma-mod-quiz-table .row.mma-mod-quiz-highlighted.itemcenter,
+.item.mma-mod-quiz-highlighted p, .mm-grades-table .mma-mod-quiz-highlighted.itemcenter p {
+  background-color: #cce0f6;
+  color: #004c9f; }
+
+.mma-quiz-textarea {
+  width: 100%;
+  height: 250px;
+  resize: none; }
+
+.mma-mod-quiz-subheader {
+  padding-top: 0px;
+  padding-bottom: 0px; }
+  .mma-mod-quiz-subheader .row, .mma-mod-quiz-subheader .col {
+    padding-top: 0px;
+    padding-bottom: 0px; }
+  .mma-mod-quiz-subheader .mm-timer {
+    min-height: 41px;
+    border: 0;
+    padding: 1px 0 1px 25px; }
+    .mma-mod-quiz-subheader .mm-timer .icon {
+      left: 0;
+      font-size: 24px; }
+    .mma-mod-quiz-subheader .mm-timer label {
+      font-size: 14px; }
+    .mma-mod-quiz-subheader .mm-timer span {
+      display: block; }
+    .mma-mod-quiz-subheader .mm-timer span.mm-timesup {
+      line-height: 40px; }
+
+.mma-mod-quiz-table .row:nth-child(odd) {
+  background-color: #f5f5f5; }
+
+.mma-mod_quiz-connection-error, ion-popover-view.popover.mma-mod_quiz-connection-error {
+  background-color: #f5d8db; }
+
+.mm-site_mod_quiz-review .item h3, .mm-site_mod_quiz-review .mm-grades-table .itemcenter h3, .mm-grades-table .mm-site_mod_quiz-review .itemcenter h3 {
+  font-size: 18px; }
+
+.item.mma-mod-quiz-selected, .mm-grades-table .mma-mod-quiz-selected.itemcenter,
+.platform-android .item.mma-mod-quiz-selected,
+.platform-android .mm-grades-table .mma-mod-quiz-selected.itemcenter, .mm-grades-table
+.platform-android .mma-mod-quiz-selected.itemcenter,
+.platform-ios .item.mma-mod-quiz-selected,
+.platform-ios .mm-grades-table .mma-mod-quiz-selected.itemcenter, .mm-grades-table
+.platform-ios .mma-mod-quiz-selected.itemcenter,
+.mma-mod-quiz-table .item.row.mma-mod-quiz-selected,
+.mma-mod-quiz-table .mm-grades-table .row.mma-mod-quiz-selected.itemcenter, .mm-grades-table
+.mma-mod-quiz-table .row.mma-mod-quiz-selected.itemcenter {
+  background: #cce0f6; }
+
+#mma-mod-quiz-toc .item, #mma-mod-quiz-toc .mm-grades-table .itemcenter, .mm-grades-table #mma-mod-quiz-toc .itemcenter {
+  border-color: #9e9e9e; }
+
+.mma-scorm-level-0 {
+  padding-left: 16px; }
+
+.mma-scorm-level-1 {
+  padding-left: 31px; }
+
+.mma-scorm-level-2 {
+  padding-left: 46px; }
+
+.mma-scorm-level-3 {
+  padding-left: 61px; }
+
+.mma-scorm-level-4 {
+  padding-left: 76px; }
+
+.mma-scorm-level-5 {
+  padding-left: 91px; }
+
+.mma-scorm-level-6 {
+  padding-left: 106px; }
+
+.mma-scorm-level-7 {
+  padding-left: 121px; }
+
+.mma-scorm-level-8 {
+  padding-left: 136px; }
+
+.mma-scorm-level-9 {
+  padding-left: 151px; }
+
+.mma-scorm-level-10 {
+  padding-left: 166px; }
+
+.mma-scorm-level-11 {
+  padding-left: 181px; }
+
+.mma-scorm-level-12 {
+  padding-left: 196px; }
+
+.mma-scorm-level-13 {
+  padding-left: 211px; }
+
+.mma-scorm-level-14 {
+  padding-left: 226px; }
+
+.mma-scorm-level-15 {
+  padding-left: 241px; }
+
+.mma-mod-scorm-checkbox-padding {
+  padding: 5px 10px; }
+
+.mma-mod-scorm-warning {
+  color: #cb3d4d; }
+
+ion-popover-view {
+  /* Adapt popover to content's height. The popover's ion-content needs to disable Ionic scroll. */
+  /* Decrease items padding in popover. */ }
+  ion-popover-view.mma-scorm-popover {
+    height: auto;
+    max-height: 80%;
+    overflow: scroll; }
+    ion-popover-view.mma-scorm-popover ion-content {
+      position: relative; }
+    ion-popover-view.mma-scorm-popover::-webkit-scrollbar {
+      display: none; }
+    ion-popover-view.mma-scorm-popover p.padding, ion-popover-view.mma-scorm-popover .item p.item-heading.padding, .item ion-popover-view.mma-scorm-popover p.item-heading.padding, ion-popover-view.mma-scorm-popover .mm-grades-table .itemcenter p.item-heading.padding, .mm-grades-table .itemcenter ion-popover-view.mma-scorm-popover p.item-heading.padding {
+      margin: 0px;
+      /* Don't add margins to p with padding inside the TOC. */ }
+  ion-popover-view .mma-scorm-popover-item {
+    padding-top: 10px;
+    padding-bottom: 10px; }
+
+/* Fix popover styles in iOS. */
+.platform-ios ion-popover-view.mma-scorm-popover {
+  padding-top: 10px;
+  padding-bottom: 10px; }
+
+.mm-site_mod_survey .row, .mm-site_mod_survey .input-label {
+  font-size: 14px; }
+
+.mm-site_mod_survey .mma-mod_survey-darkbg {
+  background-color: #f5f5f5; }
+
+.mm-site_mod_survey .mma-mod_survey-padding-top {
+  padding-top: 20px; }
+
+.mm-site_mod_survey textarea.mma-mod_survey-textarea {
+  height: 100px;
+  border: 1px solid #dddddd; }
+
+.mm-site_mod_survey select.mma-mod_survey-select {
+  background-color: transparent;
+  padding-left: 0px;
+  padding-right: 32px;
+  max-width: 100%; }
+  .mm-site_mod_survey select.mma-mod_survey-select .mma-mod_survey-defaultoption {
+    display: none; }
+
+.mm-site_mod_wiki {
+  background-color: white;
+  /* Hide edit section links */ }
+  .mm-site_mod_wiki .wiki-toc {
+    border: 1px solid #9e9e9e;
+    background: #eeeeee;
+    margin: 16px;
+    padding: 8px; }
+  .mm-site_mod_wiki .wiki-toc-title {
+    color: #626262;
+    font-size: 1.1em;
+    font-variant: small-caps;
+    text-align: center; }
+  .mm-site_mod_wiki .wiki-toc-section {
+    padding: 0;
+    margin: 2px 8px; }
+  .mm-site_mod_wiki .wiki-toc-section-2 {
+    padding-left: 12px; }
+  .mm-site_mod_wiki .wiki-toc-section-3 {
+    padding-left: 24px; }
+  .mm-site_mod_wiki .wiki_newentry {
+    color: #cb3d4d;
+    font-style: italic; }
+  .mm-site_mod_wiki .mma-mod_wiki-noedit a.wiki_edit_section {
+    display: none; }
+  .mm-site_mod_wiki .mma-mod_wiki-subwiki-picker .item-divider {
+    font-weight: bold; }
+  .mm-site_mod_wiki .mma-mod_wiki-subwiki-picker .item.item-selected, .mm-site_mod_wiki .mma-mod_wiki-subwiki-picker .mm-grades-table .item-selected.itemcenter, .mm-grades-table .mm-site_mod_wiki .mma-mod_wiki-subwiki-picker .item-selected.itemcenter {
+    background-color: #eeeeee; }
+  .mm-site_mod_wiki .mma-mod_wiki-subwiki-picker .item.item-selected .icon, .mm-site_mod_wiki .mma-mod_wiki-subwiki-picker .mm-grades-table .item-selected.itemcenter .icon, .mm-grades-table .mm-site_mod_wiki .mma-mod_wiki-subwiki-picker .item-selected.itemcenter .icon {
+    font-size: 24px; }
 
 .qbehaviour_deferredcbm_actual_percentage {
   font-weight: bold; }
@@ -13494,569 +14067,3 @@ li.mm-question-answer-incorrect,
 .mma-qtype-multianswer-container input[type="radio"], .mma-qtype-multianswer-container input[type="checkbox"] {
   margin-top: -4px;
   margin-right: 7px; }
-
-.mm-site_mod_assign div.submissioneditable p,
-.mm-site_mod_assign-submission div.submissioneditable p {
-  color: #cb3d4d; }
-
-p.mma-mod-assign-warning {
-  color: #cb3d4d; }
-
-/** Grading */
-.mm-grading-summary .advancedgrade {
-  display: none; }
-
-.gradingform_rubric {
-  overflow: auto;
-  padding-bottom: 1.5em; }
-  .gradingform_rubric .criterion {
-    border: 1px solid #dddddd;
-    overflow: hidden; }
-    .gradingform_rubric .criterion.even {
-      background: #f5f5f5; }
-    .gradingform_rubric .criterion .description,
-    .gradingform_rubric .criterion .levels,
-    .gradingform_rubric .criterion .remark,
-    .gradingform_rubric .criterion .levels .level {
-      vertical-align: top; }
-    .gradingform_rubric .criterion .description,
-    .gradingform_rubric .criterion .remark,
-    .gradingform_rubric .criterion .levels .level {
-      padding: 3px; }
-    .gradingform_rubric .criterion .description {
-      width: 150px;
-      font-weight: bold; }
-    .gradingform_rubric .criterion .levels table {
-      width: 100%;
-      height: 100%; }
-    .gradingform_rubric .criterion .levels,
-    .gradingform_rubric .criterion .levels table,
-    .gradingform_rubric .criterion .levels table tbody {
-      padding: 0;
-      margin: 0; }
-    .gradingform_rubric .criterion .levels .level {
-      border-left: 1px solid #dddddd;
-      max-width: 150px; }
-    .gradingform_rubric .criterion .levels .level .level-wrapper {
-      position: relative; }
-    .gradingform_rubric .criterion .levels .level.last {
-      border-right: 1px solid #dddddd; }
-    .gradingform_rubric .criterion .levels .level .score {
-      font-style: italic;
-      color: #394e00;
-      font-weight: bold;
-      margin-top: 5px;
-      white-space: nowrap; }
-    .gradingform_rubric .criterion .levels .level .score .scorevalue {
-      padding-right: 5px; }
-    .gradingform_rubric .criterion .levels .level.currentchecked {
-      background: #fff0f0; }
-    .gradingform_rubric .criterion .levels .level.checked {
-      background: #dfe6cc; }
-    .gradingform_rubric .criterion .description.error,
-    .gradingform_rubric .criterion .levels .level .definition.error,
-    .gradingform_rubric .criterion .levels .level .score.error {
-      background: #FFDDDD; }
-    .gradingform_rubric .criterion .levels.error {
-      border: 1px solid #cb3d4d; }
-  .gradingform_rubric .options .optionsheading {
-    font-weight: bold;
-    font-size: 1.1em;
-    padding-bottom: 5px; }
-  .gradingform_rubric .options .option {
-    padding-bottom: 2px; }
-  .gradingform_rubric .options .option label {
-    margin-left: 5px; }
-  .gradingform_rubric .options .option .value {
-    margin-left: 5px;
-    font-weight: bold; }
-  .gradingform_rubric .plainvalue.empty {
-    font-style: italic;
-    color: #AAA; }
-  .gradingform_rubric .criteria {
-    height: 100%;
-    background: #ffffff; }
-
-.gradingform_rubric-regrade {
-  padding: 10px;
-  background: #FFDDDD;
-  border: 1px solid #cb3d4d;
-  margin-bottom: 10px; }
-
-.gradingform_rubric-restored {
-  padding: 10px;
-  background: #FFFFDD;
-  border: 1px solid #FF0;
-  margin-bottom: 10px; }
-
-.gradingform_rubric-error {
-  color: #cb3d4d;
-  font-weight: bold; }
-
-.gradingform_guide-regrade {
-  padding: 10px;
-  background: #FFDDDD;
-  border: 1px solid #F00;
-  margin-bottom: 10px; }
-
-.gradingform_guide-restored {
-  padding: 10px;
-  background: #FFFFDD;
-  border: 1px solid #FF0;
-  margin-bottom: 10px; }
-
-.gradingform_guide-error {
-  color: red;
-  font-weight: bold; }
-
-.gradingform_guide .hidden {
-  display: none; }
-
-.gradingform_guide td {
-  padding: 8px; }
-
-.gradingform_guide .criterion {
-  border: 1px solid #dddddd;
-  overflow: hidden; }
-  .gradingform_guide .criterion .description,
-  .gradingform_guide .criterion .remark {
-    vertical-align: top; }
-  .gradingform_guide .criterion.even {
-    background: #f5f5f5; }
-  .gradingform_guide .criterion .description {
-    width: 100%; }
-  .gradingform_guide .criterion .description .criterionname {
-    font-weight: bold; }
-  .gradingform_guide .criterion label {
-    display: block;
-    font-weight: bold;
-    padding-right: 5px; }
-  .gradingform_guide .criterion .description.error {
-    background: #FFDDDD; }
-
-.gradingform_guide .criterionnamelabel {
-  display: none; }
-
-.gradingform_guide .criterionshortname {
-  font-weight: bold; }
-
-.gradingform_guide .plainvalue.empty {
-  font-style: italic;
-  color: #AAA; }
-
-.gradingform_guide .plainvalue.editname {
-  font-weight: bold; }
-
-.gradingform_guide .options .optionsheading {
-  font-weight: bold;
-  font-size: 1.1em;
-  padding-bottom: 5px; }
-
-.gradingform_guide .options .option {
-  padding-bottom: 2px; }
-
-.gradingform_guide .options .option label {
-  margin-left: 5px; }
-
-.gradingform_guide .options .option .value {
-  margin-left: 5px;
-  font-weight: bold; }
-
-.gradingform_guide .commentheader {
-  font-weight: bold;
-  font-size: 1.1em;
-  padding-bottom: 5px; }
-
-.gradingform_guide table {
-  width: 100%; }
-
-.gradingform_guide .descriptionreadonly {
-  vertical-align: top; }
-
-.gradingform_guide .criteriondescriptionmarkers {
-  width: 300px; }
-
-.gradingform_guide .markingguideremark {
-  margin: 0;
-  width: 100%;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box; }
-
-.gradingform_guide .criteriondescriptionscore {
-  display: inline; }
-
-.gradingform_guide .score label {
-  display: block; }
-
-.gradingform_guide .score input {
-  margin: 0;
-  width: auto; }
-
-.mma-chat-notice {
-  text-align: center;
-  margin-top: 10px; }
-  .mma-chat-notice span {
-    white-space: normal; }
-
-.mma-chat-input-inset {
-  padding-top: 0;
-  padding-left: 0;
-  padding-bottom: 0; }
-
-.mma-chat-footer-note {
-  color: #444;
-  font-size: 14px;
-  text-align: center;
-  margin: 0;
-  width: 100%; }
-
-.mma-chat-send-form {
-  width: 100%; }
-
-.mma-chat-reconnect-button, .button.mma-chat-reconnect-button {
-  margin: 0; }
-
-.mma-mod_chat-users-modal .item-complex .item-avatar, .mma-mod_chat-users-modal .item-complex .item-media, .mma-mod_chat-users-modal .item-complex .item-avatar-center, .mma-mod_chat-users-modal .item-complex .item-progress {
-  padding-bottom: 0; }
-  .mma-mod_chat-users-modal .item-complex .item-avatar .tabs, .mma-mod_chat-users-modal .item-complex .item-media .tabs, .mma-mod_chat-users-modal .item-complex .item-avatar-center .tabs, .mma-mod_chat-users-modal .item-complex .item-progress .tabs {
-    border: 0; }
-
-.mma-mod_chat-users-modal .button-bar {
-  padding: 0;
-  border: 0; }
-  .mma-mod_chat-users-modal .button-bar .button {
-    border: 0; }
-
-.mm-site_mod_choice .chart {
-  max-width: 400px;
-  margin: 0 auto; }
-
-@media (min-width: 767px) {
-  .mm-site_mod_choice .col {
-    border-left: 1px solid #dddddd; }
-    .mm-site_mod_choice .col.item, .mm-site_mod_choice .mm-grades-table .col.itemcenter, .mm-grades-table .mm-site_mod_choice .col.itemcenter, .mm-site_mod_choice .col .chart-item {
-      margin-top: 0;
-      border-top: 0; }
-    .mm-site_mod_choice .col:first-child {
-      border-left: 0; } }
-
-.mm-site_mod_feedback .mm-analysis ul {
-  font-size: 14px; }
-
-.mm-site_mod_feedback .mm-analysis .item .chart, .mm-site_mod_feedback .mm-analysis .mm-grades-table .itemcenter .chart, .mm-grades-table .mm-site_mod_feedback .mm-analysis .itemcenter .chart {
-  max-width: 500px;
-  margin: 0 auto; }
-
-.mm-site_mod_feedback-form .item-select select {
-  position: relative;
-  padding: 8px;
-  max-width: 100%;
-  width: 100%;
-  direction: ltr; }
-
-.mm-site_mod_feedback-form input, .mm-site_mod_feedback-form textarea {
-  background: transparent; }
-
-.mma-forum-discussion-link {
-  text-decoration: none; }
-  .mma-forum-discussion-link.mm-split-item-selected,
-  .mma-forum-discussion-link.mm-split-item-selected > .item, .mm-grades-table
-  .mma-forum-discussion-link.mm-split-item-selected > .itemcenter {
-    border-left: 0;
-    padding-left: 0; }
-    .mma-forum-discussion-link.mm-split-item-selected article .item-heading,
-    .mma-forum-discussion-link.mm-split-item-selected > .item article .item-heading, .mm-grades-table
-    .mma-forum-discussion-link.mm-split-item-selected > .itemcenter article .item-heading {
-      border-top: 5px solid #f98012;
-      margin-top: -1px; }
-
-.mma-forum-align-right {
-  justify-content: flex-end; }
-
-.mma-forum-border {
-  border-color: #dddddd;
-  border-width: 1px;
-  border-style: solid; }
-
-.mma-forum-reply-edit {
-  padding: 8px; }
-
-.mm-site_mod_forum .item.item-heading, .mm-site_mod_forum .mm-grades-table .item-heading.itemcenter, .mm-grades-table .mm-site_mod_forum .item-heading.itemcenter, .mm-site_mod_forum-discussion .item.item-heading, .mm-site_mod_forum-discussion .mm-grades-table .item-heading.itemcenter, .mm-grades-table .mm-site_mod_forum-discussion .item-heading.itemcenter {
-  padding-bottom: 2px; }
-  .mm-site_mod_forum .item.item-heading .mm-subject, .mm-site_mod_forum .mm-grades-table .item-heading.itemcenter .mm-subject, .mm-grades-table .mm-site_mod_forum .item-heading.itemcenter .mm-subject, .mm-site_mod_forum-discussion .item.item-heading .mm-subject, .mm-site_mod_forum-discussion .mm-grades-table .item-heading.itemcenter .mm-subject, .mm-grades-table .mm-site_mod_forum-discussion .item-heading.itemcenter .mm-subject {
-    font-size: 90%; }
-  .mm-site_mod_forum .item.item-heading .item-note, .mm-site_mod_forum .mm-grades-table .item-heading.itemcenter .item-note, .mm-grades-table .mm-site_mod_forum .item-heading.itemcenter .item-note, .mm-site_mod_forum-discussion .item.item-heading .item-note, .mm-site_mod_forum-discussion .mm-grades-table .item-heading.itemcenter .item-note, .mm-grades-table .mm-site_mod_forum-discussion .item-heading.itemcenter .item-note {
-    font-size: 80%;
-    margin-left: 5px; }
-
-.mm-site_mod_forum .card.highlight .item.item-heading, .mm-site_mod_forum .card.highlight .mm-grades-table .item-heading.itemcenter, .mm-grades-table .mm-site_mod_forum .card.highlight .item-heading.itemcenter, .mm-site_mod_forum-discussion .card.highlight .item.item-heading, .mm-site_mod_forum-discussion .card.highlight .mm-grades-table .item-heading.itemcenter, .mm-grades-table .mm-site_mod_forum-discussion .card.highlight .item-heading.itemcenter {
-  background-color: #f5f5f5; }
-  .mm-site_mod_forum .card.highlight .item.item-heading h2, .mm-site_mod_forum .card.highlight .mm-grades-table .item-heading.itemcenter h2, .mm-grades-table .mm-site_mod_forum .card.highlight .item-heading.itemcenter h2, .mm-site_mod_forum .card.highlight .item.item-heading .item-heading, .mm-site_mod_forum .card.highlight .mm-grades-table .item-heading.itemcenter .item-heading, .mm-grades-table .mm-site_mod_forum .card.highlight .item-heading.itemcenter .item-heading, .mm-site_mod_forum-discussion .card.highlight .item.item-heading h2, .mm-site_mod_forum-discussion .card.highlight .mm-grades-table .item-heading.itemcenter h2, .mm-grades-table .mm-site_mod_forum-discussion .card.highlight .item-heading.itemcenter h2, .mm-site_mod_forum-discussion .card.highlight .item.item-heading .item-heading, .mm-site_mod_forum-discussion .card.highlight .mm-grades-table .item-heading.itemcenter .item-heading, .mm-grades-table .mm-site_mod_forum-discussion .card.highlight .item-heading.itemcenter .item-heading {
-    font-weight: bold; }
-
-.mm-nest-cards .mm-nested-card {
-  padding: 0;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
-  overflow: hidden;
-  margin: 1px 10px 10px;
-  border-radius: 0;
-  background-color: #ffffff; }
-  .mm-nest-cards .mm-nested-card .item, .mm-nest-cards .mm-nested-card .mm-grades-table .itemcenter, .mm-grades-table .mm-nest-cards .mm-nested-card .itemcenter {
-    border-left: 0;
-    border-right: 0; }
-  .mm-nest-cards .mm-nested-card .item-media:first-child {
-    border-top: 0; }
-  .mm-nest-cards .mm-nested-card .item-media:last-child {
-    border-bottom: 0; }
-
-.mm-nest-cards .item-divider {
-  display: none; }
-
-.mm-nest-cards .mm-nested {
-  margin-left: 10px; }
-  .mm-nest-cards .mm-nested > article:nth-child(even) > .mm-nested-card > mma-mod-forum-discussion-post > .item-heading {
-    background: #eeeeee; }
-
-.mm-nest-cards .mma-forum-reply-edit {
-  padding: 0;
-  border: 0; }
-
-.mma-mod-lesson-slideshow {
-  max-width: 100%;
-  max-height: 100%; }
-
-.mma-mod-lesson-ongoingscore,
-.item.mma-mod-lesson-ongoingscore,
-.mm-grades-table .mma-mod-lesson-ongoingscore.itemcenter,
-.mma-mod-lesson-ongoingscore span,
-.item.mma-mod-lesson-ongoingscore span, .mm-grades-table .mma-mod-lesson-ongoingscore.itemcenter span {
-  color: #626262;
-  font-size: 14px; }
-
-.mma-mod_lesson-lessonstats .item.row .col-33, .mma-mod_lesson-lessonstats .mm-grades-table .row.itemcenter .col-33, .mm-grades-table .mma-mod_lesson-lessonstats .row.itemcenter .col-33,
-.mma-mod_lesson-lessonstats .item.row .col-50,
-.mma-mod_lesson-lessonstats .mm-grades-table .row.itemcenter .col-50, .mm-grades-table
-.mma-mod_lesson-lessonstats .row.itemcenter .col-50, .mma-mod_lesson-userstats .item.row .col-33, .mma-mod_lesson-userstats .mm-grades-table .row.itemcenter .col-33, .mm-grades-table .mma-mod_lesson-userstats .row.itemcenter .col-33,
-.mma-mod_lesson-userstats .item.row .col-50,
-.mma-mod_lesson-userstats .mm-grades-table .row.itemcenter .col-50, .mm-grades-table
-.mma-mod_lesson-userstats .row.itemcenter .col-50 {
-  border-color: #dddddd;
-  border-style: solid; }
-  .mma-mod_lesson-lessonstats .item.row .col-33:not(:first-child), .mma-mod_lesson-lessonstats .mm-grades-table .row.itemcenter .col-33:not(:first-child), .mm-grades-table .mma-mod_lesson-lessonstats .row.itemcenter .col-33:not(:first-child),
-  .mma-mod_lesson-lessonstats .item.row .col-50:not(:first-child),
-  .mma-mod_lesson-lessonstats .mm-grades-table .row.itemcenter .col-50:not(:first-child), .mm-grades-table
-  .mma-mod_lesson-lessonstats .row.itemcenter .col-50:not(:first-child), .mma-mod_lesson-userstats .item.row .col-33:not(:first-child), .mma-mod_lesson-userstats .mm-grades-table .row.itemcenter .col-33:not(:first-child), .mm-grades-table .mma-mod_lesson-userstats .row.itemcenter .col-33:not(:first-child),
-  .mma-mod_lesson-userstats .item.row .col-50:not(:first-child),
-  .mma-mod_lesson-userstats .mm-grades-table .row.itemcenter .col-50:not(:first-child), .mm-grades-table
-  .mma-mod_lesson-userstats .row.itemcenter .col-50:not(:first-child) {
-    border-left-width: 1px; }
-
-.mm-site_mod_lesson-userretake .mma-mod_lesson-answer .item, .mm-site_mod_lesson-userretake .mma-mod_lesson-answer .mm-grades-table .itemcenter, .mm-grades-table .mm-site_mod_lesson-userretake .mma-mod_lesson-answer .itemcenter {
-  border-top: 1px solid #dddddd;
-  border-radius: 0; }
-
-.mm-site_mod_lesson-userretake .highlight {
-  background-color: #cce0f6; }
-  .mm-site_mod_lesson-userretake .highlight p {
-    color: #004c9f; }
-
-p.mma-mod-quiz-warning {
-  color: #cb3d4d; }
-
-.mm-site_mod_quiz .row, .mm-site_mod_quiz-player .row {
-  min-height: 57px; }
-  .mm-site_mod_quiz .row .button.button-block, .mm-site_mod_quiz-player .row .button.button-block {
-    margin: 0; }
-
-.item.mma-mod-quiz-highlighted, .mm-grades-table .mma-mod-quiz-highlighted.itemcenter,
-.platform-android .item.mma-mod-quiz-highlighted,
-.platform-android .mm-grades-table .mma-mod-quiz-highlighted.itemcenter, .mm-grades-table
-.platform-android .mma-mod-quiz-highlighted.itemcenter,
-.platform-ios .item.mma-mod-quiz-highlighted,
-.platform-ios .mm-grades-table .mma-mod-quiz-highlighted.itemcenter, .mm-grades-table
-.platform-ios .mma-mod-quiz-highlighted.itemcenter,
-.mma-mod-quiz-table .item.row.mma-mod-quiz-highlighted,
-.mma-mod-quiz-table .mm-grades-table .row.mma-mod-quiz-highlighted.itemcenter, .mm-grades-table
-.mma-mod-quiz-table .row.mma-mod-quiz-highlighted.itemcenter,
-.item.mma-mod-quiz-highlighted p, .mm-grades-table .mma-mod-quiz-highlighted.itemcenter p {
-  background-color: #cce0f6;
-  color: #004c9f; }
-
-.mma-quiz-textarea {
-  width: 100%;
-  height: 250px;
-  resize: none; }
-
-.mma-mod-quiz-subheader {
-  padding-top: 0px;
-  padding-bottom: 0px; }
-  .mma-mod-quiz-subheader .row, .mma-mod-quiz-subheader .col {
-    padding-top: 0px;
-    padding-bottom: 0px; }
-  .mma-mod-quiz-subheader .mm-timer {
-    min-height: 41px;
-    border: 0;
-    padding: 1px 0 1px 25px; }
-    .mma-mod-quiz-subheader .mm-timer .icon {
-      left: 0;
-      font-size: 24px; }
-    .mma-mod-quiz-subheader .mm-timer label {
-      font-size: 14px; }
-    .mma-mod-quiz-subheader .mm-timer span {
-      display: block; }
-    .mma-mod-quiz-subheader .mm-timer span.mm-timesup {
-      line-height: 40px; }
-
-.mma-mod-quiz-table .row:nth-child(odd) {
-  background-color: #f5f5f5; }
-
-.mma-mod_quiz-connection-error, ion-popover-view.popover.mma-mod_quiz-connection-error {
-  background-color: #f5d8db; }
-
-.mm-site_mod_quiz-review .item h3, .mm-site_mod_quiz-review .mm-grades-table .itemcenter h3, .mm-grades-table .mm-site_mod_quiz-review .itemcenter h3 {
-  font-size: 18px; }
-
-.item.mma-mod-quiz-selected, .mm-grades-table .mma-mod-quiz-selected.itemcenter,
-.platform-android .item.mma-mod-quiz-selected,
-.platform-android .mm-grades-table .mma-mod-quiz-selected.itemcenter, .mm-grades-table
-.platform-android .mma-mod-quiz-selected.itemcenter,
-.platform-ios .item.mma-mod-quiz-selected,
-.platform-ios .mm-grades-table .mma-mod-quiz-selected.itemcenter, .mm-grades-table
-.platform-ios .mma-mod-quiz-selected.itemcenter,
-.mma-mod-quiz-table .item.row.mma-mod-quiz-selected,
-.mma-mod-quiz-table .mm-grades-table .row.mma-mod-quiz-selected.itemcenter, .mm-grades-table
-.mma-mod-quiz-table .row.mma-mod-quiz-selected.itemcenter {
-  background: #cce0f6; }
-
-#mma-mod-quiz-toc .item, #mma-mod-quiz-toc .mm-grades-table .itemcenter, .mm-grades-table #mma-mod-quiz-toc .itemcenter {
-  border-color: #9e9e9e; }
-
-.mma-scorm-level-0 {
-  padding-left: 16px; }
-
-.mma-scorm-level-1 {
-  padding-left: 31px; }
-
-.mma-scorm-level-2 {
-  padding-left: 46px; }
-
-.mma-scorm-level-3 {
-  padding-left: 61px; }
-
-.mma-scorm-level-4 {
-  padding-left: 76px; }
-
-.mma-scorm-level-5 {
-  padding-left: 91px; }
-
-.mma-scorm-level-6 {
-  padding-left: 106px; }
-
-.mma-scorm-level-7 {
-  padding-left: 121px; }
-
-.mma-scorm-level-8 {
-  padding-left: 136px; }
-
-.mma-scorm-level-9 {
-  padding-left: 151px; }
-
-.mma-scorm-level-10 {
-  padding-left: 166px; }
-
-.mma-scorm-level-11 {
-  padding-left: 181px; }
-
-.mma-scorm-level-12 {
-  padding-left: 196px; }
-
-.mma-scorm-level-13 {
-  padding-left: 211px; }
-
-.mma-scorm-level-14 {
-  padding-left: 226px; }
-
-.mma-scorm-level-15 {
-  padding-left: 241px; }
-
-.mma-mod-scorm-checkbox-padding {
-  padding: 5px 10px; }
-
-.mma-mod-scorm-warning {
-  color: #cb3d4d; }
-
-ion-popover-view {
-  /* Adapt popover to content's height. The popover's ion-content needs to disable Ionic scroll. */
-  /* Decrease items padding in popover. */ }
-  ion-popover-view.mma-scorm-popover {
-    height: auto;
-    max-height: 80%;
-    overflow: scroll; }
-    ion-popover-view.mma-scorm-popover ion-content {
-      position: relative; }
-    ion-popover-view.mma-scorm-popover::-webkit-scrollbar {
-      display: none; }
-    ion-popover-view.mma-scorm-popover p.padding, ion-popover-view.mma-scorm-popover .item p.item-heading.padding, .item ion-popover-view.mma-scorm-popover p.item-heading.padding, ion-popover-view.mma-scorm-popover .mm-grades-table .itemcenter p.item-heading.padding, .mm-grades-table .itemcenter ion-popover-view.mma-scorm-popover p.item-heading.padding {
-      margin: 0px;
-      /* Don't add margins to p with padding inside the TOC. */ }
-  ion-popover-view .mma-scorm-popover-item {
-    padding-top: 10px;
-    padding-bottom: 10px; }
-
-/* Fix popover styles in iOS. */
-.platform-ios ion-popover-view.mma-scorm-popover {
-  padding-top: 10px;
-  padding-bottom: 10px; }
-
-.mm-site_mod_survey .row, .mm-site_mod_survey .input-label {
-  font-size: 14px; }
-
-.mm-site_mod_survey .mma-mod_survey-darkbg {
-  background-color: #f5f5f5; }
-
-.mm-site_mod_survey .mma-mod_survey-padding-top {
-  padding-top: 20px; }
-
-.mm-site_mod_survey textarea.mma-mod_survey-textarea {
-  height: 100px;
-  border: 1px solid #dddddd; }
-
-.mm-site_mod_survey select.mma-mod_survey-select {
-  background-color: transparent;
-  padding-left: 0px;
-  padding-right: 32px;
-  max-width: 100%; }
-  .mm-site_mod_survey select.mma-mod_survey-select .mma-mod_survey-defaultoption {
-    display: none; }
-
-.mm-site_mod_wiki {
-  background-color: white;
-  /* Hide edit section links */ }
-  .mm-site_mod_wiki .wiki-toc {
-    border: 1px solid #9e9e9e;
-    background: #eeeeee;
-    margin: 16px;
-    padding: 8px; }
-  .mm-site_mod_wiki .wiki-toc-title {
-    color: #626262;
-    font-size: 1.1em;
-    font-variant: small-caps;
-    text-align: center; }
-  .mm-site_mod_wiki .wiki-toc-section {
-    padding: 0;
-    margin: 2px 8px; }
-  .mm-site_mod_wiki .wiki-toc-section-2 {
-    padding-left: 12px; }
-  .mm-site_mod_wiki .wiki-toc-section-3 {
-    padding-left: 24px; }
-  .mm-site_mod_wiki .wiki_newentry {
-    color: #cb3d4d;
-    font-style: italic; }
-  .mm-site_mod_wiki .mma-mod_wiki-noedit a.wiki_edit_section {
-    display: none; }
-  .mm-site_mod_wiki .mma-mod_wiki-subwiki-picker .item-divider {
-    font-weight: bold; }
-  .mm-site_mod_wiki .mma-mod_wiki-subwiki-picker .item.item-selected, .mm-site_mod_wiki .mma-mod_wiki-subwiki-picker .mm-grades-table .item-selected.itemcenter, .mm-grades-table .mm-site_mod_wiki .mma-mod_wiki-subwiki-picker .item-selected.itemcenter {
-    background-color: #eeeeee; }
-  .mm-site_mod_wiki .mma-mod_wiki-subwiki-picker .item.item-selected .icon, .mm-site_mod_wiki .mma-mod_wiki-subwiki-picker .mm-grades-table .item-selected.itemcenter .icon, .mm-grades-table .mm-site_mod_wiki .mma-mod_wiki-subwiki-picker .item-selected.itemcenter .icon {
-    font-size: 24px; }
