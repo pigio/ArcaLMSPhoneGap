@@ -52,9 +52,8 @@ $item-input-padding: 16px !default;
  * App Branding
  */
 .mm-bglogo {
-  background-color: #ff5c00; /* Change this to add a bg image or change color */
-  background: -webkit-radial-gradient(#ff7600, #ff5c00);
-  background: radial-gradient(#ff7600, #ff5c00);
+  background-color: $gray-light; /* Change this to add a bg image or change color */
+
   background-repeat: no-repeat;
   background-position: center center;
   position: absolute;
@@ -2017,12 +2016,13 @@ mm-course-mod-description .card .item {
 }
 
 $chart-size: 70px;
-$doughnut-border-size: 15px;
-$doughnut-dasharray: 173;
+$doughnut-border-size: 5px;
+$doughnut-dasharray: 204.01;
 $doughnut-empty-colour: $gray-light;
-$doughnut-fill-colour: $orange-light;
+//$doughnut-fill-colour: $orange-light;
+$doughnut-fill-colour: $red-arcadia;
 $doughnut-border-colour:  $gray-dark;
-$doughnut-text-colour: $gray-darker;
+$doughnut-text-colour: #d3121a;
 
 .item-course {
   >.icon, >ion-spinner {
@@ -2072,6 +2072,7 @@ $doughnut-text-colour: $gray-darker;
       color: $doughnut-text-colour;
       font-size: 95%;
       letter-spacing: -1px;
+
     }
 
     .progress-indicator {
@@ -2319,6 +2320,7 @@ mm-course-list-item .item-icon-left {
     background: $white;
     border: 1px solid $item-default-border;
   }
+
 }
 
 

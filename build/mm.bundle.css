@@ -3712,7 +3712,7 @@ address {
   line-height: 1.42857; }
 
 a {
-  color: #0064d2; }
+  color: #3a3a3a; }
 
 a.subdued {
   padding-right: 10px;
@@ -3770,10 +3770,10 @@ a.subdued {
     border-radius: 0;
     border-color: #d1d3d6;
     background-color: transparent;
-    color: #0064d2;
+    color: #3a3a3a;
     font-size: 21px; }
     .action-sheet .button:hover {
-      color: #0064d2; }
+      color: #3a3a3a; }
     .action-sheet .button.destructive {
       color: #ff3b30; }
       .action-sheet .button.destructive:hover {
@@ -3781,7 +3781,7 @@ a.subdued {
   .action-sheet .button.active, .action-sheet .button.activated {
     box-shadow: none;
     border-color: #d1d3d6;
-    color: #0064d2;
+    color: #3a3a3a;
     background: #e4e5e7; }
 
 .action-sheet-has-icons .icon {
@@ -3940,14 +3940,14 @@ a.subdued {
     .bar.bar-stable.bar-footer {
       background-image: linear-gradient(180deg, #b2b2b2, #b2b2b2 50%, transparent 50%); }
   .bar.bar-positive {
-    border-color: #004c9f;
-    background-color: #0064d2;
-    background-image: linear-gradient(0deg, #004c9f, #004c9f 50%, transparent 50%);
+    border-color: #212121;
+    background-color: #3a3a3a;
+    background-image: linear-gradient(0deg, #212121, #212121 50%, transparent 50%);
     color: #fff; }
     .bar.bar-positive .title {
       color: #fff; }
     .bar.bar-positive.bar-footer {
-      background-image: linear-gradient(180deg, #004c9f, #004c9f 50%, transparent 50%); }
+      background-image: linear-gradient(180deg, #212121, #212121 50%, transparent 50%); }
   .bar.bar-calm {
     border-color: #004a4f;
     background-color: #007982;
@@ -4142,15 +4142,15 @@ a.subdued {
     background: none; }
 
 .bar-positive .button {
-  border-color: #004c9f;
-  background-color: #0064d2;
+  border-color: #212121;
+  background-color: #3a3a3a;
   color: #fff; }
   .bar-positive .button:hover {
     color: #fff;
     text-decoration: none; }
   .bar-positive .button.active, .bar-positive .button.activated {
-    border-color: #004c9f;
-    background-color: #004c9f; }
+    border-color: #212121;
+    background-color: #212121; }
   .bar-positive .button.button-clear {
     border-color: transparent;
     background: none;
@@ -4433,9 +4433,9 @@ a.subdued {
 
 .tabs-positive > .tabs,
 .tabs.tabs-positive {
-  border-color: #004c9f;
-  background-color: #0064d2;
-  background-image: linear-gradient(0deg, #004c9f, #004c9f 50%, transparent 50%);
+  border-color: #212121;
+  background-color: #3a3a3a;
+  background-image: linear-gradient(0deg, #212121, #212121 50%, transparent 50%);
   color: #fff; }
   .tabs-positive > .tabs .tab-item .badge, .tabs-positive > .tabs .tab-item .mma-messages-date span, .mma-messages-date .tabs-positive > .tabs .tab-item span, .tabs-positive > .tabs .tab-item
   .mma-messages-unreadfrom span,
@@ -4450,7 +4450,7 @@ a.subdued {
   .tabs.tabs-positive .tab-item .mma-chat-notice span, .mma-chat-notice
   .tabs.tabs-positive .tab-item span {
     background-color: #fff;
-    color: #0064d2; }
+    color: #3a3a3a; }
 
 .tabs-calm > .tabs,
 .tabs.tabs-calm {
@@ -4653,7 +4653,7 @@ a.subdued {
   top: 4%; }
 
 .tabs-striped.tabs-positive .tabs {
-  background-color: #0064d2; }
+  background-color: #3a3a3a; }
 
 .tabs-striped.tabs-positive .tab-item {
   color: rgba(255, 255, 255, 0.6);
@@ -4843,7 +4843,7 @@ a.subdued {
   background-image: none; }
 
 .tabs-striped.tabs-background-positive .tabs {
-  background-color: #0064d2;
+  background-color: #3a3a3a;
   background-image: none; }
 
 .tabs-striped.tabs-background-calm .tabs {
@@ -4915,7 +4915,7 @@ a.subdued {
       opacity: 1; }
 
 .tabs-striped.tabs-color-positive .tab-item {
-  color: rgba(0, 100, 210, 0.6);
+  color: rgba(58, 58, 58, 0.6);
   opacity: 1; }
   .tabs-striped.tabs-color-positive .tab-item .badge, .tabs-striped.tabs-color-positive .tab-item .mma-messages-date span, .mma-messages-date .tabs-striped.tabs-color-positive .tab-item span, .tabs-striped.tabs-color-positive .tab-item
   .mma-messages-unreadfrom span,
@@ -4923,8 +4923,8 @@ a.subdued {
     opacity: 0.6; }
   .tabs-striped.tabs-color-positive .tab-item.tab-item-active, .tabs-striped.tabs-color-positive .tab-item.active, .tabs-striped.tabs-color-positive .tab-item.activated {
     margin-top: -2px;
-    color: #0064d2;
-    border: 0 solid #0064d2;
+    color: #3a3a3a;
+    border: 0 solid #3a3a3a;
     border-top-width: 2px; }
     .tabs-striped.tabs-color-positive .tab-item.tab-item-active .badge, .tabs-striped.tabs-color-positive .tab-item.tab-item-active .mma-messages-date span, .mma-messages-date .tabs-striped.tabs-color-positive .tab-item.tab-item-active span, .tabs-striped.tabs-color-positive .tab-item.tab-item-active
     .mma-messages-unreadfrom span,
@@ -5082,9 +5082,9 @@ a.subdued {
 
 .tabs-background-positive .tabs,
 .tabs-background-positive > .tabs {
-  background-color: #0064d2;
-  background-image: linear-gradient(0deg, #004c9f, #004c9f 50%, transparent 50%);
-  border-color: #004c9f; }
+  background-color: #3a3a3a;
+  background-image: linear-gradient(0deg, #212121, #212121 50%, transparent 50%);
+  border-color: #212121; }
 
 .tabs-background-calm .tabs,
 .tabs-background-calm > .tabs {
@@ -5161,15 +5161,15 @@ a.subdued {
       opacity: 1; }
 
 .tabs-color-positive .tab-item {
-  color: rgba(0, 100, 210, 0.6);
+  color: rgba(58, 58, 58, 0.6);
   opacity: 1; }
   .tabs-color-positive .tab-item .badge, .tabs-color-positive .tab-item .mma-messages-date span, .mma-messages-date .tabs-color-positive .tab-item span, .tabs-color-positive .tab-item
   .mma-messages-unreadfrom span,
   .mma-messages-unreadfrom .tabs-color-positive .tab-item span, .tabs-color-positive .tab-item .mma-chat-notice span, .mma-chat-notice .tabs-color-positive .tab-item span {
     opacity: 0.6; }
   .tabs-color-positive .tab-item.tab-item-active, .tabs-color-positive .tab-item.active, .tabs-color-positive .tab-item.activated {
-    color: #0064d2;
-    border: 0 solid #0064d2; }
+    color: #3a3a3a;
+    border: 0 solid #3a3a3a; }
     .tabs-color-positive .tab-item.tab-item-active .badge, .tabs-color-positive .tab-item.tab-item-active .mma-messages-date span, .mma-messages-date .tabs-color-positive .tab-item.tab-item-active span, .tabs-color-positive .tab-item.tab-item-active
     .mma-messages-unreadfrom span,
     .mma-messages-unreadfrom .tabs-color-positive .tab-item.tab-item-active span, .tabs-color-positive .tab-item.tab-item-active .mma-chat-notice span, .mma-chat-notice .tabs-color-positive .tab-item.tab-item-active span, .tabs-color-positive .tab-item.active .badge, .tabs-color-positive .tab-item.active .mma-messages-date span, .mma-messages-date .tabs-color-positive .tab-item.active span, .tabs-color-positive .tab-item.active
@@ -5314,11 +5314,11 @@ ion-tabs.tabs-striped.tabs-color-active-stable .tab-item.tab-item-active, ion-ta
 ion-tabs.tabs-color-active-positive .tab-item {
   color: #3a3a3a; }
   ion-tabs.tabs-color-active-positive .tab-item.tab-item-active, ion-tabs.tabs-color-active-positive .tab-item.active, ion-tabs.tabs-color-active-positive .tab-item.activated {
-    color: #0064d2; }
+    color: #3a3a3a; }
 
 ion-tabs.tabs-striped.tabs-color-active-positive .tab-item.tab-item-active, ion-tabs.tabs-striped.tabs-color-active-positive .tab-item.active, ion-tabs.tabs-striped.tabs-color-active-positive .tab-item.activated {
-  border-color: #0064d2;
-  color: #0064d2; }
+  border-color: #3a3a3a;
+  color: #3a3a3a; }
 
 ion-tabs.tabs-color-active-calm .tab-item {
   color: #3a3a3a; }
@@ -5570,7 +5570,7 @@ ion-tabs.tabs-striped.tabs-color-active-dark .tab-item.tab-item-active, ion-tabs
   .tab-item.tab-item-active.tab-item-positive,
   .tab-item.active.tab-item-positive,
   .tab-item.activated.tab-item-positive {
-    color: #0064d2; }
+    color: #3a3a3a; }
   .tab-item.tab-item-active.tab-item-calm,
   .tab-item.active.tab-item-calm,
   .tab-item.activated.tab-item-calm {
@@ -6149,8 +6149,8 @@ ion-tabs.tabs-striped.tabs-color-active-dark .tab-item.tab-item-active, ion-tabs
     background-color: #f5f5f5;
     color: #444; }
   .item.item-positive, .mm-grades-table .item-positive.itemcenter {
-    border-color: #004c9f;
-    background-color: #0064d2;
+    border-color: #212121;
+    background-color: #3a3a3a;
     color: #fff; }
   .item.item-calm, .mm-grades-table .item-calm.itemcenter {
     border-color: #004a4f;
@@ -6241,16 +6241,16 @@ ion-tabs.tabs-striped.tabs-color-active-dark .tab-item.tab-item-active, ion-tabs
   .item-complex.activated .item-content.item-positive,
   .item .item-content.active.item-positive, .mm-grades-table .itemcenter .item-content.active.item-positive,
   .item .item-content.activated.item-positive, .mm-grades-table .itemcenter .item-content.activated.item-positive {
-    border-color: #004c9f;
-    background-color: #004c9f; }
+    border-color: #212121;
+    background-color: #212121; }
     .item.active.item-positive.item-complex > .item-content, .mm-grades-table .active.item-positive.item-complex.itemcenter > .item-content,
     .item.activated.item-positive.item-complex > .item-content, .mm-grades-table .activated.item-positive.item-complex.itemcenter > .item-content,
     .item-complex.active .item-content.item-positive.item-complex > .item-content,
     .item-complex.activated .item-content.item-positive.item-complex > .item-content,
     .item .item-content.active.item-positive.item-complex > .item-content, .mm-grades-table .itemcenter .item-content.active.item-positive.item-complex > .item-content,
     .item .item-content.activated.item-positive.item-complex > .item-content, .mm-grades-table .itemcenter .item-content.activated.item-positive.item-complex > .item-content {
-      border-color: #004c9f;
-      background-color: #004c9f; }
+      border-color: #212121;
+      background-color: #212121; }
   .item.active.item-calm, .mm-grades-table .active.item-calm.itemcenter,
   .item.activated.item-calm,
   .mm-grades-table .activated.item-calm.itemcenter,
@@ -6480,15 +6480,15 @@ a.item-content {
       background-color: #e5e5e5; }
 
 .item-complex.item-positive > .item-content {
-  border-color: #004c9f;
-  background-color: #0064d2;
+  border-color: #212121;
+  background-color: #3a3a3a;
   color: #fff; }
   .item-complex.item-positive > .item-content.active, .item-complex.item-positive > .item-content:active {
-    border-color: #004c9f;
-    background-color: #004c9f; }
+    border-color: #212121;
+    background-color: #212121; }
     .item-complex.item-positive > .item-content.active.item-complex > .item-content, .item-complex.item-positive > .item-content:active.item-complex > .item-content {
-      border-color: #004c9f;
-      background-color: #004c9f; }
+      border-color: #212121;
+      background-color: #212121; }
 
 .item-complex.item-calm > .item-content {
   border-color: #004a4f;
@@ -7259,7 +7259,7 @@ button.item.item-button-right,
 .mma-messages-date span.badge-positive,
 .mma-messages-unreadfrom span.badge-positive,
 .mma-chat-notice span.badge-positive {
-  background-color: #0064d2;
+  background-color: #3a3a3a;
   color: #fff; }
 
 .tabs .tab-item .badge.badge-calm, .tabs .tab-item .mma-messages-date span.badge-calm, .mma-messages-date .tabs .tab-item span.badge-calm, .tabs .tab-item
@@ -8005,8 +8005,8 @@ ion-slides {
     stroke: #f5f5f5;
     fill: #f5f5f5; }
   .spinner.spinner-positive {
-    stroke: #0064d2;
-    fill: #0064d2; }
+    stroke: #3a3a3a;
+    fill: #3a3a3a; }
   .spinner.spinner-calm {
     stroke: #007982;
     fill: #007982; }
@@ -8047,7 +8047,7 @@ ion-slides {
   stop-color: #f5f5f5; }
 
 .spinner-spiral.spinner-positive .stop2 {
-  stop-color: #0064d2; }
+  stop-color: #3a3a3a; }
 
 .spinner-spiral.spinner-calm .stop2 {
   stop-color: #007982; }
@@ -8408,8 +8408,8 @@ input[type="checkbox"][readonly] {
     border-color: #dddddd; }
   .checkbox input:checked:before,
   .checkbox input:checked + .checkbox-icon:before {
-    background: #0064d2;
-    border-color: #0064d2; }
+    background: #3a3a3a;
+    border-color: #3a3a3a; }
 
 .checkbox-light input:before,
 .checkbox-light .checkbox-icon:before {
@@ -8431,12 +8431,12 @@ input[type="checkbox"][readonly] {
 
 .checkbox-positive input:before,
 .checkbox-positive .checkbox-icon:before {
-  border-color: #0064d2; }
+  border-color: #3a3a3a; }
 
 .checkbox-positive input:checked:before,
 .checkbox-positive input:checked + .checkbox-icon:before {
-  background: #0064d2;
-  border-color: #0064d2; }
+  background: #3a3a3a;
+  border-color: #3a3a3a; }
 
 .checkbox-calm input:before,
 .checkbox-calm .checkbox-icon:before {
@@ -8637,8 +8637,8 @@ input:checked + .checkbox-icon:after {
   background-color: #b2b2b2; }
 
 .toggle.toggle-positive input:checked + .track {
-  border-color: #0064d2;
-  background-color: #0064d2; }
+  border-color: #3a3a3a;
+  background-color: #3a3a3a; }
 
 .toggle.toggle-calm input:checked + .track {
   border-color: #007982;
@@ -8775,10 +8775,10 @@ input:checked + .checkbox-icon:after {
   background-color: #b2b2b2; }
 
 .toggle-small .toggle-positive input:checked + .track {
-  background-color: rgba(0, 100, 210, 0.5); }
+  background-color: rgba(58, 58, 58, 0.5); }
 
 .toggle-small .toggle-positive input:checked + .track .handle {
-  background-color: #0064d2; }
+  background-color: #3a3a3a; }
 
 .toggle-small .toggle-calm input:checked + .track {
   background-color: rgba(0, 121, 130, 0.5); }
@@ -8950,9 +8950,9 @@ input:checked + .checkbox-icon:after {
   .range.range-stable input::-ms-fill-lower {
     background: #b2b2b2; }
   .range.range-positive input::-webkit-slider-thumb:before {
-    background: #0064d2; }
+    background: #3a3a3a; }
   .range.range-positive input::-ms-fill-lower {
-    background: #0064d2; }
+    background: #3a3a3a; }
   .range.range-calm input::-webkit-slider-thumb:before {
     background: #007982; }
   .range.range-calm input::-ms-fill-lower {
@@ -9072,7 +9072,7 @@ input:checked + .checkbox-icon:after {
   .item-select.item-stable:after, .item-select.item-stable .input-label {
     color: #666666; }
   .item-select.item-positive select {
-    background: #0064d2;
+    background: #3a3a3a;
     color: #fff; }
   .item-select.item-positive:after, .item-select.item-positive .input-label {
     color: #fff; }
@@ -9124,9 +9124,9 @@ progress {
  * --------------------------------------------------
  */
 .button {
-  border-color: #0064d2;
+  border-color: #3a3a3a;
   background-color: #ffffff;
-  color: #0064d2;
+  color: #3a3a3a;
   position: relative;
   display: inline-block;
   margin: 0;
@@ -9143,11 +9143,11 @@ progress {
   line-height: 42px;
   cursor: pointer; }
   .button:hover {
-    color: #0064d2;
+    color: #3a3a3a;
     text-decoration: none; }
   .button.active, .button.activated {
-    border-color: #0064d2;
-    background-color: #0064d2; }
+    border-color: #3a3a3a;
+    background-color: #3a3a3a; }
   .button:after {
     position: absolute;
     top: -6px;
@@ -9177,14 +9177,14 @@ progress {
     margin-top: 10px;
     margin-bottom: 10px; }
   .button.button-light {
-    border-color: #0064d2;
+    border-color: #3a3a3a;
     background-color: #fff;
     color: #444; }
     .button.button-light:hover {
       color: #444;
       text-decoration: none; }
     .button.button-light.active, .button.button-light.activated {
-      border-color: #0064d2;
+      border-color: #3a3a3a;
       background-color: #fafafa; }
     .button.button-light.button-clear {
       border-color: transparent;
@@ -9203,14 +9203,14 @@ progress {
         box-shadow: none;
         color: #fff; }
   .button.button-stable {
-    border-color: #0064d2;
+    border-color: #3a3a3a;
     background-color: #f5f5f5;
     color: #444; }
     .button.button-stable:hover {
       color: #444;
       text-decoration: none; }
     .button.button-stable.active, .button.button-stable.activated {
-      border-color: #0064d2;
+      border-color: #3a3a3a;
       background-color: #e5e5e5; }
     .button.button-stable.button-clear {
       border-color: transparent;
@@ -9229,40 +9229,40 @@ progress {
         box-shadow: none;
         color: #fff; }
   .button.button-positive {
-    border-color: #0064d2;
-    background-color: #0064d2;
+    border-color: #3a3a3a;
+    background-color: #3a3a3a;
     color: #fff; }
     .button.button-positive:hover {
       color: #fff;
       text-decoration: none; }
     .button.button-positive.active, .button.button-positive.activated {
-      border-color: #0064d2;
-      background-color: #004c9f; }
+      border-color: #3a3a3a;
+      background-color: #212121; }
     .button.button-positive.button-clear {
       border-color: transparent;
       background: none;
       box-shadow: none;
-      color: #0064d2; }
+      color: #3a3a3a; }
     .button.button-positive.button-icon {
       border-color: transparent;
       background: none; }
     .button.button-positive.button-outline {
-      border-color: #0064d2;
+      border-color: #3a3a3a;
       background: transparent;
-      color: #0064d2; }
+      color: #3a3a3a; }
       .button.button-positive.button-outline.active, .button.button-positive.button-outline.activated {
-        background-color: #0064d2;
+        background-color: #3a3a3a;
         box-shadow: none;
         color: #fff; }
   .button.button-calm {
-    border-color: #0064d2;
+    border-color: #3a3a3a;
     background-color: #007982;
     color: #fff; }
     .button.button-calm:hover {
       color: #fff;
       text-decoration: none; }
     .button.button-calm.active, .button.button-calm.activated {
-      border-color: #0064d2;
+      border-color: #3a3a3a;
       background-color: #004a4f; }
     .button.button-calm.button-clear {
       border-color: transparent;
@@ -9281,14 +9281,14 @@ progress {
         box-shadow: none;
         color: #fff; }
   .button.button-assertive {
-    border-color: #0064d2;
+    border-color: #3a3a3a;
     background-color: #cb3d4d;
     color: #fff; }
     .button.button-assertive:hover {
       color: #fff;
       text-decoration: none; }
     .button.button-assertive.active, .button.button-assertive.activated {
-      border-color: #0064d2;
+      border-color: #3a3a3a;
       background-color: #a82d3b; }
     .button.button-assertive.button-clear {
       border-color: transparent;
@@ -9307,14 +9307,14 @@ progress {
         box-shadow: none;
         color: #fff; }
   .button.button-balanced {
-    border-color: #0064d2;
+    border-color: #3a3a3a;
     background-color: #5e8100;
     color: #fff; }
     .button.button-balanced:hover {
       color: #fff;
       text-decoration: none; }
     .button.button-balanced.active, .button.button-balanced.activated {
-      border-color: #0064d2;
+      border-color: #3a3a3a;
       background-color: #394e00; }
     .button.button-balanced.button-clear {
       border-color: transparent;
@@ -9333,14 +9333,14 @@ progress {
         box-shadow: none;
         color: #fff; }
   .button.button-energized {
-    border-color: #0064d2;
+    border-color: #3a3a3a;
     background-color: #fbad1a;
     color: #fff; }
     .button.button-energized:hover {
       color: #fff;
       text-decoration: none; }
     .button.button-energized.active, .button.button-energized.activated {
-      border-color: #0064d2;
+      border-color: #3a3a3a;
       background-color: #f7a304; }
     .button.button-energized.button-clear {
       border-color: transparent;
@@ -9359,14 +9359,14 @@ progress {
         box-shadow: none;
         color: #fff; }
   .button.button-royal {
-    border-color: #0064d2;
+    border-color: #3a3a3a;
     background-color: #5e8100;
     color: #fff; }
     .button.button-royal:hover {
       color: #fff;
       text-decoration: none; }
     .button.button-royal.active, .button.button-royal.activated {
-      border-color: #0064d2;
+      border-color: #3a3a3a;
       background-color: #405800; }
     .button.button-royal.button-clear {
       border-color: transparent;
@@ -9385,14 +9385,14 @@ progress {
         box-shadow: none;
         color: #fff; }
   .button.button-dark {
-    border-color: #0064d2;
+    border-color: #3a3a3a;
     background-color: #3a3a3a;
     color: #fff; }
     .button.button-dark:hover {
       color: #fff;
       text-decoration: none; }
     .button.button-dark.active, .button.button-dark.activated {
-      border-color: #0064d2;
+      border-color: #3a3a3a;
       background-color: #262626; }
     .button.button-dark.button-clear {
       border-color: transparent;
@@ -9460,7 +9460,7 @@ progress {
     border-color: transparent;
     background: none;
     box-shadow: none;
-    color: #0064d2; }
+    color: #3a3a3a; }
   .button-clear.button-icon {
     border-color: transparent;
     background: none; }
@@ -9473,11 +9473,11 @@ progress {
   background: none;
   box-shadow: none; }
   .button-outline.button-outline {
-    border-color: #0064d2;
+    border-color: #3a3a3a;
     background: transparent;
-    color: #0064d2; }
+    color: #3a3a3a; }
     .button-outline.button-outline.active, .button-outline.button-outline.activated {
-      background-color: #0064d2;
+      background-color: #3a3a3a;
       box-shadow: none;
       color: #fff; }
 
@@ -9553,7 +9553,7 @@ a.button {
   .button-bar.bar-stable > .button {
     border-color: #b2b2b2; }
   .button-bar.bar-positive > .button {
-    border-color: #004c9f; }
+    border-color: #212121; }
   .button-bar.bar-calm > .button {
     border-color: #004a4f; }
   .button-bar.bar-assertive > .button {
@@ -10059,13 +10059,13 @@ a.button {
   border-color: #b2b2b2; }
 
 .positive, a.positive {
-  color: #0064d2; }
+  color: #3a3a3a; }
 
 .positive-bg {
-  background-color: #0064d2; }
+  background-color: #3a3a3a; }
 
 .positive-border {
-  border-color: #004c9f; }
+  border-color: #212121; }
 
 .calm, a.calm {
   color: #007982; }
@@ -10368,7 +10368,7 @@ a.button {
 .icon {
   color: #626262; }
   .icon.positive {
-    color: #0064d2; }
+    color: #3a3a3a; }
   .icon.assertive {
     color: #cb3d4d; }
   .icon.dark {
@@ -10384,7 +10384,7 @@ a.button {
 .button.button-icon.activated,
 .button.button-icon.active .icon,
 .button.button-icon.activated .icon {
-  color: #0064d2; }
+  color: #3a3a3a; }
   .button .icon.assertive, .button.active.assertive, .button.activated.assertive,
   .button.active .icon.assertive,
   .button.activated .icon.assertive,
@@ -10414,7 +10414,7 @@ a.button {
     color: #ccc; }
 
 .action-sheet .button .icon {
-  color: #0064d2; }
+  color: #3a3a3a; }
 
 .platform-android .action-sheet .button .icon {
   color: inherit; }
@@ -10428,29 +10428,29 @@ a.button {
   color: #cb3d4d; }
 
 .button.button-light, .button.button-stable, .button.button-calm, .button.button-assertive, .button.button-balanced, .button.button-energized, .button.button-royal {
-  border-color: #0064d2;
+  border-color: #3a3a3a;
   background-color: #ffffff;
-  color: #0064d2; }
+  color: #3a3a3a; }
   .button.button-light:hover, .button.button-stable:hover, .button.button-calm:hover, .button.button-assertive:hover, .button.button-balanced:hover, .button.button-energized:hover, .button.button-royal:hover {
-    color: #0064d2;
+    color: #3a3a3a;
     text-decoration: none; }
   .button.button-light.active, .button.button-light.activated, .button.button-stable.active, .button.button-stable.activated, .button.button-calm.active, .button.button-calm.activated, .button.button-assertive.active, .button.button-assertive.activated, .button.button-balanced.active, .button.button-balanced.activated, .button.button-energized.active, .button.button-energized.activated, .button.button-royal.active, .button.button-royal.activated {
-    border-color: #0064d2;
-    background-color: #0064d2; }
+    border-color: #3a3a3a;
+    background-color: #3a3a3a; }
   .button.button-light.button-clear, .button.button-stable.button-clear, .button.button-calm.button-clear, .button.button-assertive.button-clear, .button.button-balanced.button-clear, .button.button-energized.button-clear, .button.button-royal.button-clear {
     border-color: transparent;
     background: none;
     box-shadow: none;
-    color: #0064d2; }
+    color: #3a3a3a; }
   .button.button-light.button-icon, .button.button-stable.button-icon, .button.button-calm.button-icon, .button.button-assertive.button-icon, .button.button-balanced.button-icon, .button.button-energized.button-icon, .button.button-royal.button-icon {
     border-color: transparent;
     background: none; }
   .button.button-light.button-outline, .button.button-stable.button-outline, .button.button-calm.button-outline, .button.button-assertive.button-outline, .button.button-balanced.button-outline, .button.button-energized.button-outline, .button.button-royal.button-outline {
-    border-color: #0064d2;
+    border-color: #3a3a3a;
     background: transparent;
-    color: #0064d2; }
+    color: #3a3a3a; }
     .button.button-light.button-outline.active, .button.button-light.button-outline.activated, .button.button-stable.button-outline.active, .button.button-stable.button-outline.activated, .button.button-calm.button-outline.active, .button.button-calm.button-outline.activated, .button.button-assertive.button-outline.active, .button.button-assertive.button-outline.activated, .button.button-balanced.button-outline.active, .button.button-balanced.button-outline.activated, .button.button-energized.button-outline.active, .button.button-energized.button-outline.activated, .button.button-royal.button-outline.active, .button.button-royal.button-outline.activated {
-      background-color: #0064d2;
+      background-color: #3a3a3a;
       box-shadow: none;
       color: #fff; }
   .button.button-light.active, .button.button-light.activated, .button.button-stable.active, .button.button-stable.activated, .button.button-calm.active, .button.button-calm.activated, .button.button-assertive.active, .button.button-assertive.activated, .button.button-balanced.active, .button.button-balanced.activated, .button.button-energized.active, .button.button-energized.activated, .button.button-royal.active, .button.button-royal.activated {
@@ -10466,15 +10466,15 @@ a.button {
     color: #ffffff; }
 
 .button.button-dark {
-  border-color: #0064d2;
+  border-color: #3a3a3a;
   background-color: #ffffff;
-  color: #0064d2; }
+  color: #3a3a3a; }
   .button.button-dark:hover {
-    color: #0064d2;
+    color: #3a3a3a;
     text-decoration: none; }
   .button.button-dark.active, .button.button-dark.activated {
-    border-color: #0064d2;
-    background-color: #0064d2; }
+    border-color: #3a3a3a;
+    background-color: #3a3a3a; }
   .button.button-dark.button-clear {
     border-color: transparent;
     background: none;
@@ -10484,20 +10484,24 @@ a.button {
     border-color: transparent;
     background: none; }
   .button.button-dark.button-outline {
-    border-color: #0064d2;
+    border-color: #3a3a3a;
     background: transparent;
-    color: #0064d2; }
+    color: #3a3a3a; }
     .button.button-dark.button-outline.active, .button.button-dark.button-outline.activated {
-      background-color: #0064d2;
+      background-color: #3a3a3a;
       box-shadow: none;
       color: #fff; }
   .button.button-dark.button-icon {
     color: #626262; }
 
 .button.button.button-positive {
-  border-color: #a82d3b;
-  background-color: #a82d3b;
+  border-color: #d3121a;
+  background-color: #d3121a;
   color: #fff; }
+
+.button .progress-chart-container .progress-doughnut .progress-indicator svg .circle {
+  stroke: #d3121a;
+  color: #d3121a; }
 
 /**
  * Core styles for the app.
@@ -10518,10 +10522,8 @@ a.button {
  * App Branding
  */
 .mm-bglogo {
-  background-color: #ff5c00;
+  background-color: #eeeeee;
   /* Change this to add a bg image or change color */
-  background: -webkit-radial-gradient(#ff7600, #ff5c00);
-  background: radial-gradient(#ff7600, #ff5c00);
   background-repeat: no-repeat;
   background-position: center center;
   position: absolute;
@@ -10571,21 +10573,21 @@ a.button {
 
 .bar-content {
   border-color: transparent;
-  background-color: #cb3d4d;
+  background-color: #d3121a;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #ffffff; }
   .bar-content .title {
     color: #ffffff; }
   .bar-content .button {
     border-color: transparent;
-    background-color: #cb3d4d;
+    background-color: #d3121a;
     color: #ffffff; }
     .bar-content .button:hover {
       color: #ffffff;
       text-decoration: none; }
     .bar-content .button.active, .bar-content .button.activated {
       border-color: transparent;
-      background-color: #cb3d4d; }
+      background-color: #d3121a; }
     .bar-content .button.button-clear {
       border-color: transparent;
       background: none;
@@ -10748,7 +10750,7 @@ p.item-text-wrap {
 
 /* Show buttons as tabs */
 .mm-tabs-color .tab-item {
-  color: rgba(203, 61, 77, 0.6);
+  color: rgba(211, 18, 26, 0.6);
   opacity: 1; }
   .mm-tabs-color .tab-item .badge, .mm-tabs-color .tab-item .mma-messages-date span, .mma-messages-date .mm-tabs-color .tab-item span, .mm-tabs-color .tab-item
   .mma-messages-unreadfrom span,
@@ -10756,8 +10758,8 @@ p.item-text-wrap {
     opacity: 0.6; }
   .mm-tabs-color .tab-item.tab-item-active, .mm-tabs-color .tab-item.active, .mm-tabs-color .tab-item.activated {
     margin-top: -2px;
-    color: #cb3d4d;
-    border: 0 solid #cb3d4d;
+    color: #d3121a;
+    border: 0 solid #d3121a;
     border-top-width: 2px; }
     .mm-tabs-color .tab-item.tab-item-active .badge, .mm-tabs-color .tab-item.tab-item-active .mma-messages-date span, .mma-messages-date .mm-tabs-color .tab-item.tab-item-active span, .mm-tabs-color .tab-item.tab-item-active
     .mma-messages-unreadfrom span,
@@ -10770,15 +10772,15 @@ p.item-text-wrap {
       opacity: 1; }
 
 .mm-tabs-color .tab-item {
-  color: rgba(203, 61, 77, 0.6);
+  color: rgba(211, 18, 26, 0.6);
   opacity: 1; }
   .mm-tabs-color .tab-item .badge, .mm-tabs-color .tab-item .mma-messages-date span, .mma-messages-date .mm-tabs-color .tab-item span, .mm-tabs-color .tab-item
   .mma-messages-unreadfrom span,
   .mma-messages-unreadfrom .mm-tabs-color .tab-item span, .mm-tabs-color .tab-item .mma-chat-notice span, .mma-chat-notice .mm-tabs-color .tab-item span {
     opacity: 0.6; }
   .mm-tabs-color .tab-item.tab-item-active, .mm-tabs-color .tab-item.active, .mm-tabs-color .tab-item.activated {
-    color: #cb3d4d;
-    border: 0 solid #cb3d4d; }
+    color: #d3121a;
+    border: 0 solid #d3121a; }
     .mm-tabs-color .tab-item.tab-item-active .badge, .mm-tabs-color .tab-item.tab-item-active .mma-messages-date span, .mma-messages-date .mm-tabs-color .tab-item.tab-item-active span, .mm-tabs-color .tab-item.tab-item-active
     .mma-messages-unreadfrom span,
     .mma-messages-unreadfrom .mm-tabs-color .tab-item.tab-item-active span, .mm-tabs-color .tab-item.tab-item-active .mma-chat-notice span, .mma-chat-notice .mm-tabs-color .tab-item.tab-item-active span, .mm-tabs-color .tab-item.active .badge, .mm-tabs-color .tab-item.active .mma-messages-date span, .mma-messages-date .mm-tabs-color .tab-item.active span, .mm-tabs-color .tab-item.active
@@ -10808,7 +10810,7 @@ p.item-text-wrap {
 
 .mm-menu-selected:not(.button), .mm-split-item-selected:not(.button), .item.mma-mod-lesson-selected:not(.button), .mm-grades-table .mma-mod-lesson-selected.itemcenter:not(.button) {
   background-color: #f5f5f5;
-  border-left: 5px solid #d66572;
+  border-left: 5px solid #ed2b33;
   padding-left: 12px; }
   .mm-menu-selected:not(.button).item-avatar, .mm-menu-selected.item-media:not(.button), .item-media.mm-split-item-selected:not(.button), .item-media.item.mma-mod-lesson-selected:not(.button), .mm-grades-table .item-media.mma-mod-lesson-selected.itemcenter:not(.button), .mm-menu-selected.item-avatar-center:not(.button), .item-avatar-center.mm-split-item-selected:not(.button), .item-avatar-center.item.mma-mod-lesson-selected:not(.button), .mm-grades-table .item-avatar-center.mma-mod-lesson-selected.itemcenter:not(.button), .mm-split-item-selected:not(.button).item-avatar, .mm-split-item-selected.item-progress:not(.button), .mm-menu-selected.item-progress:not(.button), .item-progress.item.mma-mod-lesson-selected:not(.button), .mm-grades-table .item-progress.mma-mod-lesson-selected.itemcenter:not(.button), .item.mma-mod-lesson-selected:not(.button).item-avatar, .mm-grades-table .mma-mod-lesson-selected.itemcenter:not(.button).item-avatar, .mm-menu-selected:not(.button).item-avatar-left, .mm-split-item-selected:not(.button).item-avatar-left, .item.mma-mod-lesson-selected:not(.button).item-avatar-left, .mm-grades-table .mma-mod-lesson-selected.itemcenter:not(.button).item-avatar-left {
     padding-left: 68px; }
@@ -11103,7 +11105,7 @@ mm-navigation-bar .col {
     margin-bottom: 0; }
 
 .mm-info-card {
-  border-bottom: 3px solid #0064d2;
+  border-bottom: 3px solid #3a3a3a;
   padding: 10px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
   margin: 20px 10px;
@@ -11111,7 +11113,7 @@ mm-navigation-bar .col {
   position: relative;
   text-align: left; }
   .mm-info-card i.icon:before {
-    color: #0064d2;
+    color: #3a3a3a;
     font-size: 125%; }
   .mm-info-card p:last-child {
     margin-bottom: 0; }
@@ -11203,7 +11205,7 @@ mm-navigation-bar .col {
     margin-bottom: 0; }
 
 .mm-info-card-icon {
-  border-bottom: 3px solid #0064d2;
+  border-bottom: 3px solid #3a3a3a;
   padding: 10px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
   margin: 20px 10px;
@@ -11229,7 +11231,7 @@ mm-navigation-bar .col {
     font-size: 24px;
     left: 4px; }
     .mm-info-card-icon i.icon:before {
-      color: #0064d2;
+      color: #3a3a3a;
       display: block;
       width: 24px;
       text-align: center; }
@@ -11297,12 +11299,12 @@ mm-navigation-bar .col {
 
 .item.item-howto, .mm-grades-table .item-howto.itemcenter,
 .mm-info-item {
-  border-bottom: 3px solid #0064d2 !important;
+  border-bottom: 3px solid #3a3a3a !important;
   padding-top: 12px;
   padding-bottom: 9px; }
   .item.item-howto i.icon:before:not(.radio-icon), .mm-grades-table .item-howto.itemcenter i.icon:before:not(.radio-icon),
   .mm-info-item i.icon:before:not(.radio-icon) {
-    color: #0064d2; }
+    color: #3a3a3a; }
 
 .mm-success-item, .mm-site_mod_assign div.earlysubmission,
 .mm-site_mod_assign-submission div.earlysubmission {
@@ -11465,7 +11467,7 @@ mm-timer {
   .mm-text-with-icon-right .icon {
     font-size: 22px;
     padding: 0 5px;
-    color: #0064d2; }
+    color: #3a3a3a; }
 
 .mm-full-width {
   width: 100%; }
@@ -11573,8 +11575,8 @@ input[type="radio"].mm-radio {
     -webkit-transition: background-color 20ms ease-in-out;
     transition: background-color 20ms ease-in-out; }
   input[type="radio"].mm-radio:checked:before {
-    background: #0064d2;
-    border-color: #0064d2; }
+    background: #3a3a3a;
+    border-color: #3a3a3a; }
   input[type="radio"].mm-radio:disabled:before {
     border-color: #dddddd;
     background: #dddddd; }
@@ -11654,7 +11656,7 @@ mm-searchbox .item-input-inset .item-input-wrapper {
     border: 0; }
   .item.mm-tab-handlers .tabs-icon-round, .mm-grades-table .mm-tab-handlers.itemcenter .tabs-icon-round,
   .mm-tab-handlers .tabs-icon-round {
-    color: #0064d2; }
+    color: #3a3a3a; }
     .item.mm-tab-handlers .tabs-icon-round .tab-item.activated, .mm-grades-table .mm-tab-handlers.itemcenter .tabs-icon-round .tab-item.activated,
     .mm-tab-handlers .tabs-icon-round .tab-item.activated {
       opacity: 0.7; }
@@ -11665,7 +11667,7 @@ mm-searchbox .item-input-inset .item-input-wrapper {
       font-size: 22px;
       line-height: 32px;
       color: white;
-      background-color: #0064d2;
+      background-color: #3a3a3a;
       margin-bottom: 5px; }
       .item.mm-tab-handlers .tabs-icon-round .icon:before, .mm-grades-table .mm-tab-handlers.itemcenter .tabs-icon-round .icon:before,
       .mm-tab-handlers .tabs-icon-round .icon:before {
@@ -11993,7 +11995,7 @@ progress {
     border-radius: 2px;
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1) inset; }
   progress[value]::-webkit-progress-value {
-    background-color: #d66572;
+    background-color: #ed2b33;
     border-radius: 2px; }
 
 mm-progress-bar {
@@ -12376,7 +12378,7 @@ mm-course-mod-description .card .item, mm-course-mod-description .card .mm-grade
   width: 40px;
   right: 0;
   top: 6px;
-  color: #626262;
+  color: #d3121a;
   position: absolute; }
 
 .item-progress {
@@ -12399,7 +12401,7 @@ mm-course-mod-description .card .item, mm-course-mod-description .card .mm-grade
     height: 70px;
     width: 70px;
     background-clip: padding-box;
-    border: 15px solid #eeeeee;
+    border: 5px solid #eeeeee;
     border-radius: 50%;
     box-sizing: border-box;
     display: table; }
@@ -12407,13 +12409,13 @@ mm-course-mod-description .card .item, mm-course-mod-description .card .mm-grade
       display: table-cell;
       text-align: center;
       vertical-align: middle;
-      color: #626262;
+      color: #d3121a;
       font-size: 95%;
       letter-spacing: -1px; }
     .progress-chart-container .progress-doughnut .progress-indicator {
       position: absolute;
-      top: -15px;
-      left: -15px;
+      top: -5px;
+      left: -5px;
       height: 70px;
       width: 70px; }
       .progress-chart-container .progress-doughnut .progress-indicator svg {
@@ -12421,211 +12423,211 @@ mm-course-mod-description .card .item, mm-course-mod-description .card .mm-grade
         height: 100%;
         width: 100%; }
         .progress-chart-container .progress-doughnut .progress-indicator svg .circle {
-          stroke-width: 15px;
-          stroke: #fa9b44;
+          stroke-width: 5px;
+          stroke: #d3121a;
           fill: none;
-          stroke-dasharray: 173;
-          stroke-dashoffset: 173;
+          stroke-dasharray: 204.01;
+          stroke-dashoffset: 204.01;
           transform: rotate(-90deg);
           transform-origin: center center; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-1 {
-            stroke-dashoffset: 171.27; }
+            stroke-dashoffset: 201.9699; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-2 {
-            stroke-dashoffset: 169.54; }
+            stroke-dashoffset: 199.9298; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-3 {
-            stroke-dashoffset: 167.81; }
+            stroke-dashoffset: 197.8897; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-4 {
-            stroke-dashoffset: 166.08; }
+            stroke-dashoffset: 195.8496; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-5 {
-            stroke-dashoffset: 164.35; }
+            stroke-dashoffset: 193.8095; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-6 {
-            stroke-dashoffset: 162.62; }
+            stroke-dashoffset: 191.7694; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-7 {
-            stroke-dashoffset: 160.89; }
+            stroke-dashoffset: 189.7293; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-8 {
-            stroke-dashoffset: 159.16; }
+            stroke-dashoffset: 187.6892; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-9 {
-            stroke-dashoffset: 157.43; }
+            stroke-dashoffset: 185.6491; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-10 {
-            stroke-dashoffset: 155.7; }
+            stroke-dashoffset: 183.609; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-11 {
-            stroke-dashoffset: 153.97; }
+            stroke-dashoffset: 181.5689; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-12 {
-            stroke-dashoffset: 152.24; }
+            stroke-dashoffset: 179.5288; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-13 {
-            stroke-dashoffset: 150.51; }
+            stroke-dashoffset: 177.4887; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-14 {
-            stroke-dashoffset: 148.78; }
+            stroke-dashoffset: 175.4486; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-15 {
-            stroke-dashoffset: 147.05; }
+            stroke-dashoffset: 173.4085; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-16 {
-            stroke-dashoffset: 145.32; }
+            stroke-dashoffset: 171.3684; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-17 {
-            stroke-dashoffset: 143.59; }
+            stroke-dashoffset: 169.3283; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-18 {
-            stroke-dashoffset: 141.86; }
+            stroke-dashoffset: 167.2882; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-19 {
-            stroke-dashoffset: 140.13; }
+            stroke-dashoffset: 165.2481; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-20 {
-            stroke-dashoffset: 138.4; }
+            stroke-dashoffset: 163.208; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-21 {
-            stroke-dashoffset: 136.67; }
+            stroke-dashoffset: 161.1679; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-22 {
-            stroke-dashoffset: 134.94; }
+            stroke-dashoffset: 159.1278; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-23 {
-            stroke-dashoffset: 133.21; }
+            stroke-dashoffset: 157.0877; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-24 {
-            stroke-dashoffset: 131.48; }
+            stroke-dashoffset: 155.0476; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-25 {
-            stroke-dashoffset: 129.75; }
+            stroke-dashoffset: 153.0075; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-26 {
-            stroke-dashoffset: 128.02; }
+            stroke-dashoffset: 150.9674; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-27 {
-            stroke-dashoffset: 126.29; }
+            stroke-dashoffset: 148.9273; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-28 {
-            stroke-dashoffset: 124.56; }
+            stroke-dashoffset: 146.8872; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-29 {
-            stroke-dashoffset: 122.83; }
+            stroke-dashoffset: 144.8471; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-30 {
-            stroke-dashoffset: 121.1; }
+            stroke-dashoffset: 142.807; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-31 {
-            stroke-dashoffset: 119.37; }
+            stroke-dashoffset: 140.7669; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-32 {
-            stroke-dashoffset: 117.64; }
+            stroke-dashoffset: 138.7268; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-33 {
-            stroke-dashoffset: 115.91; }
+            stroke-dashoffset: 136.6867; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-34 {
-            stroke-dashoffset: 114.18; }
+            stroke-dashoffset: 134.6466; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-35 {
-            stroke-dashoffset: 112.45; }
+            stroke-dashoffset: 132.6065; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-36 {
-            stroke-dashoffset: 110.72; }
+            stroke-dashoffset: 130.5664; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-37 {
-            stroke-dashoffset: 108.99; }
+            stroke-dashoffset: 128.5263; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-38 {
-            stroke-dashoffset: 107.26; }
+            stroke-dashoffset: 126.4862; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-39 {
-            stroke-dashoffset: 105.53; }
+            stroke-dashoffset: 124.4461; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-40 {
-            stroke-dashoffset: 103.8; }
+            stroke-dashoffset: 122.406; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-41 {
-            stroke-dashoffset: 102.07; }
+            stroke-dashoffset: 120.3659; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-42 {
-            stroke-dashoffset: 100.34; }
+            stroke-dashoffset: 118.3258; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-43 {
-            stroke-dashoffset: 98.61; }
+            stroke-dashoffset: 116.2857; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-44 {
-            stroke-dashoffset: 96.88; }
+            stroke-dashoffset: 114.2456; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-45 {
-            stroke-dashoffset: 95.15; }
+            stroke-dashoffset: 112.2055; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-46 {
-            stroke-dashoffset: 93.42; }
+            stroke-dashoffset: 110.1654; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-47 {
-            stroke-dashoffset: 91.69; }
+            stroke-dashoffset: 108.1253; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-48 {
-            stroke-dashoffset: 89.96; }
+            stroke-dashoffset: 106.0852; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-49 {
-            stroke-dashoffset: 88.23; }
+            stroke-dashoffset: 104.0451; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-50 {
-            stroke-dashoffset: 86.5; }
+            stroke-dashoffset: 102.005; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-51 {
-            stroke-dashoffset: 84.77; }
+            stroke-dashoffset: 99.9649; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-52 {
-            stroke-dashoffset: 83.04; }
+            stroke-dashoffset: 97.9248; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-53 {
-            stroke-dashoffset: 81.31; }
+            stroke-dashoffset: 95.8847; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-54 {
-            stroke-dashoffset: 79.58; }
+            stroke-dashoffset: 93.8446; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-55 {
-            stroke-dashoffset: 77.85; }
+            stroke-dashoffset: 91.8045; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-56 {
-            stroke-dashoffset: 76.12; }
+            stroke-dashoffset: 89.7644; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-57 {
-            stroke-dashoffset: 74.39; }
+            stroke-dashoffset: 87.7243; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-58 {
-            stroke-dashoffset: 72.66; }
+            stroke-dashoffset: 85.6842; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-59 {
-            stroke-dashoffset: 70.93; }
+            stroke-dashoffset: 83.6441; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-60 {
-            stroke-dashoffset: 69.2; }
+            stroke-dashoffset: 81.604; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-61 {
-            stroke-dashoffset: 67.47; }
+            stroke-dashoffset: 79.5639; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-62 {
-            stroke-dashoffset: 65.74; }
+            stroke-dashoffset: 77.5238; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-63 {
-            stroke-dashoffset: 64.01; }
+            stroke-dashoffset: 75.4837; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-64 {
-            stroke-dashoffset: 62.28; }
+            stroke-dashoffset: 73.4436; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-65 {
-            stroke-dashoffset: 60.55; }
+            stroke-dashoffset: 71.4035; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-66 {
-            stroke-dashoffset: 58.82; }
+            stroke-dashoffset: 69.3634; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-67 {
-            stroke-dashoffset: 57.09; }
+            stroke-dashoffset: 67.3233; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-68 {
-            stroke-dashoffset: 55.36; }
+            stroke-dashoffset: 65.2832; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-69 {
-            stroke-dashoffset: 53.63; }
+            stroke-dashoffset: 63.2431; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-70 {
-            stroke-dashoffset: 51.9; }
+            stroke-dashoffset: 61.203; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-71 {
-            stroke-dashoffset: 50.17; }
+            stroke-dashoffset: 59.1629; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-72 {
-            stroke-dashoffset: 48.44; }
+            stroke-dashoffset: 57.1228; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-73 {
-            stroke-dashoffset: 46.71; }
+            stroke-dashoffset: 55.0827; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-74 {
-            stroke-dashoffset: 44.98; }
+            stroke-dashoffset: 53.0426; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-75 {
-            stroke-dashoffset: 43.25; }
+            stroke-dashoffset: 51.0025; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-76 {
-            stroke-dashoffset: 41.52; }
+            stroke-dashoffset: 48.9624; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-77 {
-            stroke-dashoffset: 39.79; }
+            stroke-dashoffset: 46.9223; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-78 {
-            stroke-dashoffset: 38.06; }
+            stroke-dashoffset: 44.8822; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-79 {
-            stroke-dashoffset: 36.33; }
+            stroke-dashoffset: 42.8421; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-80 {
-            stroke-dashoffset: 34.6; }
+            stroke-dashoffset: 40.802; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-81 {
-            stroke-dashoffset: 32.87; }
+            stroke-dashoffset: 38.7619; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-82 {
-            stroke-dashoffset: 31.14; }
+            stroke-dashoffset: 36.7218; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-83 {
-            stroke-dashoffset: 29.41; }
+            stroke-dashoffset: 34.6817; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-84 {
-            stroke-dashoffset: 27.68; }
+            stroke-dashoffset: 32.6416; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-85 {
-            stroke-dashoffset: 25.95; }
+            stroke-dashoffset: 30.6015; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-86 {
-            stroke-dashoffset: 24.22; }
+            stroke-dashoffset: 28.5614; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-87 {
-            stroke-dashoffset: 22.49; }
+            stroke-dashoffset: 26.5213; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-88 {
-            stroke-dashoffset: 20.76; }
+            stroke-dashoffset: 24.4812; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-89 {
-            stroke-dashoffset: 19.03; }
+            stroke-dashoffset: 22.4411; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-90 {
-            stroke-dashoffset: 17.3; }
+            stroke-dashoffset: 20.401; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-91 {
-            stroke-dashoffset: 15.57; }
+            stroke-dashoffset: 18.3609; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-92 {
-            stroke-dashoffset: 13.84; }
+            stroke-dashoffset: 16.3208; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-93 {
-            stroke-dashoffset: 12.11; }
+            stroke-dashoffset: 14.2807; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-94 {
-            stroke-dashoffset: 10.38; }
+            stroke-dashoffset: 12.2406; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-95 {
-            stroke-dashoffset: 8.65; }
+            stroke-dashoffset: 10.2005; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-96 {
-            stroke-dashoffset: 6.92; }
+            stroke-dashoffset: 8.1604; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-97 {
-            stroke-dashoffset: 5.19; }
+            stroke-dashoffset: 6.1203; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-98 {
-            stroke-dashoffset: 3.46; }
+            stroke-dashoffset: 4.0802; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-99 {
-            stroke-dashoffset: 1.73; }
+            stroke-dashoffset: 2.0401; }
           .progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-100 {
             stroke-dashoffset: 0; }
   .progress-chart-container .no-progress {
@@ -12962,7 +12964,7 @@ li.mm-question-answer-incorrect,
 
 .bar-side-menu {
   border-color: transparent;
-  background-color: #cb3d4d;
+  background-color: #d3121a;
   background-image: linear-gradient(0deg, transparent, transparent 50%, transparent 50%);
   color: #ffffff;
   height: 80px !important; }
@@ -13034,7 +13036,7 @@ li.mm-question-answer-incorrect,
   margin-top: 10px; }
 
 .mma-messages-unreadfrom {
-  color: #0064d2; }
+  color: #3a3a3a; }
 
 .mma-messages-input-inset {
   padding-top: 0;
@@ -13411,7 +13413,7 @@ p.mma-mod-assign-warning {
     .mma-forum-discussion-link.mm-split-item-selected article .item-heading,
     .mma-forum-discussion-link.mm-split-item-selected > .item article .item-heading, .mm-grades-table
     .mma-forum-discussion-link.mm-split-item-selected > .itemcenter article .item-heading {
-      border-top: 5px solid #cb3d4d;
+      border-top: 5px solid #d3121a;
       margin-top: -1px; }
 
 .mma-forum-align-right {
